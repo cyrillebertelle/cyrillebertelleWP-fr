@@ -8,7 +8,8 @@ description:
   <a href="https://isc-n.fr">ISCN</a> /  
   <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a><br>
   <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
-  <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - France<br><br>
+  <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - 
+  <a href="https://www.google.fr/maps/place/Le+Havre/@46.8893002,-2.5055358,6z/data=!4m5!3m4!1s0x47e02f2395218b7d:0x5bc1867aaf33af12!8m2!3d49.49437!4d0.107929">France<br><br>
   <a href="https://cyrillebertelle.github.io/cyrillebertelleWP-fr/">Site en français</a>
 
 profile:
@@ -23,13 +24,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France where I am Director of SFLog, Research Federation in Logistics, Normandie. I am co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin.  
+Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France. He is also Director of SFLog, Research Federation in Logistics, Normandie. He is co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin.  
    
    
 ## current research interests and projects
 - Complex Systems Modelling and Simulation
 - Complex Networks for Territorial Intelligence and Logistics Systems
-- Blockchains for smart logistics  
+- Blockchains for Smart Ports  
   
   
 ## responsabilities
