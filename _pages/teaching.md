@@ -17,7 +17,7 @@ pagination:
     after: 3  # The number of links after the current page
 ---
 
-<div class="post">
+<!-- <div class="post"> -->
 
 <!--  <div class="header-bar">
     <h1>Teaching</h1>
@@ -37,4 +37,4 @@ pagination:
 
   {% include pagination.html %}
 
-</div>
+<!-- </div> -->
