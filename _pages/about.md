@@ -41,12 +41,12 @@ Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-C
 - Co-coordinator of ISCN (Complex Systems Institute in Normandie)
 
 ## contact
-- Postal Address :  
+- **Postal Address** :  
     UFR Sciences et Techniques  
     25 rue Ph. Lebon - BP  1123  
     76063 Le Havre Cedex, FRANCE
-- Offices : G104 UFRST / S123 PIL-ISEL
-- Email : [cyrille.bertelle@univ-lehavre.fr](mailto:cyrille.bertelle@univ-lehavre.fr) 
+- **Office** : G104 UFRST / S123 PIL-ISEL
+- **Email** : [cyrille.bertelle@univ-lehavre.fr](mailto:cyrille.bertelle@univ-lehavre.fr) 
   
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
