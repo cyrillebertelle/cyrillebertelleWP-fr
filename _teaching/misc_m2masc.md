@@ -1,7 +1,7 @@
 ---
 layout: post
-title: M2 MASC - Modélisation Informatique des Systèmes Complexes
-date: 2021
+title: M2 MASC - Modelisation Informatique des Systemes Complexes
+date: 2021-07-10
 inline: false
 ---
 
