@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A test announcement with details
-date: 2015-11-07
+date: 2021-11-07
 inline: false
 ---
 
