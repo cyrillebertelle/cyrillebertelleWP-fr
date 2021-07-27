@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: page
+permalink: /teach-test/
+collection: teaching
+title: teaching-test
+description: Materials for courses you taught
+nav: true
 pagination:
   enabled: true
   collection: teaching
