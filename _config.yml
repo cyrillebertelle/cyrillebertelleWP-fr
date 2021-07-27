@@ -92,8 +92,13 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+    defaults:
+      layout: post
+    output: true
+    permalink: /teaching/:path/
 
-news_limit: 5
+news_limit: 25
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
