@@ -41,7 +41,7 @@ Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-C
 - Co-coordinator of ISCN (Complex Systems Institute in Normandie)
 
 ## contact
-- Postal Address : 
+- Postal Address :  
     UFR Sciences et Techniques  
     25 rue Ph. Lebon - BP  1123  
     76063 Le Havre Cedex, FRANCE
