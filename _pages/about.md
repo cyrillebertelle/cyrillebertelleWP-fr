@@ -20,7 +20,7 @@ profile:
     
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -40,7 +40,10 @@ Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-C
 - Co-coordinator of UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
 - Co-coordinator of ISCN (Complex Systems Institute in Normandie)
 
-
+## contact
+- Postal Address : UFR Sciences et Techniques, 25 rue Ph. Lebon - BP  1123, 76063 Le Havre Cedex, FRANCE
+- Offices : G104 UFRST / S123 PIL-ISEL
+- Email : [cyrille.bertelle@univ-lehavre.fr](mailto:cyrille.bertelle@univ-lehavre.fr) 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
