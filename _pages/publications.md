@@ -9,6 +9,10 @@ nav: true
 
 <div class="publications">
 
+Many of my publications are available from [my personal Hal repository](https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=cyrille+bertelle&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css)
+  
+Many are also available from [my Google Scholar page](https://scholar.google.com/citations?user=Twj3qDQAAAAJ&hl=fr)
+  
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
