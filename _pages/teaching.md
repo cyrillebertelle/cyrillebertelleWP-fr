@@ -4,6 +4,7 @@ permalink: /teaching/
 collection: teaching
 title: teaching
 description: Materials for courses you taught
+display_categories: [current, past]
 nav: true
 pagination:
   enabled: true
