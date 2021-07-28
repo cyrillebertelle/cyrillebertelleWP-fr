@@ -97,6 +97,11 @@ collections:
       layout: post
     output: true
     permalink: /teaching/:path/
+  research:
+    defaults:
+      layout: post
+    output: true
+    permalink: /research/:path/
 
 news_limit: 25
 
