@@ -23,6 +23,8 @@ pagination:
     <h2>Material for courses</h2>
   </div>
 -->
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/9.jpg' | relative_url }}" alt="" title="example image"/>
+Abstract (in progress)
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
