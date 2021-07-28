@@ -17,6 +17,8 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
+Résumé à faire 
+
 <div class="post"> 
   <div class="header-bar">
     <!-- <h1>Teaching</h1>
