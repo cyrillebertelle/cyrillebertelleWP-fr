@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 collection: research
 title: research
-description: research activities
+description: research activities and animation
 display_categories: [current, past]
 nav: true
 pagination:
