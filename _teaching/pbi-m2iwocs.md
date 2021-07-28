@@ -1,6 +1,6 @@
 ---
 layout: post
-title: M2 IWOCS - Programmation Bio-Inspirée
+title: M2 IWOCS - Programmation Bio-Inspirée et métaheuristique
 date: 2021-07-10
 inline: false
 category: current
