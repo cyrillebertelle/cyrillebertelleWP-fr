@@ -2,7 +2,7 @@
 layout: post
 title: scientifics networks
 description: 
-date: 2021-07-10
+date: 2021-07-07
 inline: false
 category: past
 ---
