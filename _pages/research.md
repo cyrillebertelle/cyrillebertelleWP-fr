@@ -23,6 +23,8 @@ pagination:
     <h2>Material for courses</h2>
   </div>
 -->
+Abstract (in progress)
+
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
