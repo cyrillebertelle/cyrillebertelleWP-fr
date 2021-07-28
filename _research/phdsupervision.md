@@ -2,7 +2,7 @@
 layout: post
 title: phd supervision
 description: 
-date: 2021-07-10
+date: 2021-07-08
 inline: false
 category: past
 ---
