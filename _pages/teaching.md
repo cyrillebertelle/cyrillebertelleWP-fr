@@ -6,6 +6,12 @@ title: teaching
 description: Materials for courses you taught
 display_categories: [current, past]
 nav: true
+profile:
+  align: right
+  image: 9.jpg
+  address: >
+    <p>   </p>
+
 pagination:
   enabled: true
   collection: teaching
