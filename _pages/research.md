@@ -25,7 +25,7 @@ pagination:
   </div>
 
   <ul class="post-list">
-    Abstract in progress
+    Abstract in progress<br>
     {% for post in paginator.posts %}
       <li>
         <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
