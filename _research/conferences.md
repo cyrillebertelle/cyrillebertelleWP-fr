@@ -1,7 +1,7 @@
 ---
 layout: post
 title: conferences management
-date: 2021-07-10
+date: 2021-07-09
 inline: false
 category: past
 ---
