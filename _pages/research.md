@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /research/
 collection: research
 title: research
@@ -17,6 +17,7 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
+
 Résumé à faire 
 
 <div class="post"> 
