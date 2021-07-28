@@ -1,6 +1,7 @@
 ---
 layout: post
-title: M2 IWOCS - Programmation Bio-Inspirée et métaheuristique
+title: m2 iwocs - programmation bio-inspirée et métaheuristique
+description: cours en master 2 iwocs (ingénierie du webn des objects communiquants et des systèmes complexes) UFRST Université Le Havre Normandie
 date: 2021-07-10
 inline: false
 category: current
