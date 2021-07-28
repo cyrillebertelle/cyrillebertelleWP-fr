@@ -8,7 +8,7 @@ display_categories: [current, past]
 nav: true
 profile:
   align: right
-  image: 9.jpg
+  image: teaching.jpg
   address: >
     <p>   </p>
 
