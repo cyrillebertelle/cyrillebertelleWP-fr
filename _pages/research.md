@@ -5,6 +5,12 @@ collection: research
 title: research
 description: research activities and animation
 nav: true
+profile:
+  align: right
+  image: research.jpg
+  address: >
+    <p>   </p>
+
 pagination:
   enabled: true
   collection: research
