@@ -6,16 +6,17 @@ img: /assets/img/logoXterm.png
 importance: 1
 category: work
 ---
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logoXterm.png' | relative_url }}" alt="" title="XTerM logo"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    XTerM logo
 </div>
 
 in progress
+
 <!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
