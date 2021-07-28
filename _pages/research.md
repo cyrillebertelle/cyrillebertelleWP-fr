@@ -17,13 +17,12 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3  # The number of links after the current page
 ---
-<!-- <div class="post"> -->
-<!--  <div class="header-bar">
-    <h1>Teaching</h1>
-    <h2>Material for courses</h2>
+<div class="post"> 
+  <div class="header-bar">
+    <!-- <h1>Teaching</h1>
+    <h2>Material for courses</h2> -->
+    Abstract (in progress)
   </div>
--->
-Abstract (in progress)
 
   <ul class="post-list">
     {% for post in paginator.posts %}
