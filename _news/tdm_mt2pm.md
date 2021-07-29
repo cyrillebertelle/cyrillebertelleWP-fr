@@ -9,5 +9,5 @@ This scientific and innovation meeting is organised in the framework of MT2PM re
 
 ***
 
-Flyer is avalaible [here](https://cyrillebertelle.github.com/cyrillebertelleWP/assets/pdf/plaquette_MT2PM_territoires_de_demain_vdef.pdf).
+Flyer is avalaible [here](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/plaquette_MT2PM_territoires_de_demain_vdef.pdf).
 
