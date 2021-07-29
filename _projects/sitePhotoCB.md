@@ -1,0 +1,15 @@
+---
+layout: page
+title: Le Havre - site de photographies
+description: Site web de photographies du Havre et de Normandie
+img: /assets/img/sitePhotoCB.png
+importance: 1
+category: others
+---
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/sitePhotoCB.png' | relative_url }}" alt="" title="XTerM logo"/>
+    </div>
+</div>
+
+Available [here](https://cyrillebertelle.wixsite.com/photographies)
