@@ -9,5 +9,5 @@ This scientific and innovation meeting is organised in the framework of MT2PM re
 
 ***
 
-Flyer is avalaible [here]().
+Flyer is avalaible [here](/assets/pdf/plaquette_MT2PM_territoires_de_demain_vdef.pdf).
 
