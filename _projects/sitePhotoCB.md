@@ -3,6 +3,7 @@ layout: page
 title: Le Havre - site de photographies
 description: Site web de photographies du Havre et de Normandie
 img: /assets/img/sitePhotoCB.png
+redirect: https://cyrillebertelle.wixsite.com/photographies
 importance: 1
 category: others
 ---
