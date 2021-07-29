@@ -4,7 +4,7 @@ title: FuMa
 description: ERDF scientific project, 2019-2022, Normandie Region 
 img: /assets/img/FumaLogo.png
 importance: 1
-category: work
+category: research
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
