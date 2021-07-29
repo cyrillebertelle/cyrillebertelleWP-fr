@@ -4,7 +4,7 @@ title: XTerM
 description: ERDF scientific project, 2015-2019, Normandie Region 
 img: /assets/img/logoXterm.png
 importance: 1
-category: work
+category: research
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
