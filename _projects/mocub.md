@@ -3,7 +3,7 @@ layout: page
 title: MOCUB
 description: RIN scientific project, 2021-2023, Normandie Region 
 img: /assets/img/mocub_logo.png
-importance: 1
+importance: 50
 category: research
 ---
 <div class="row">
