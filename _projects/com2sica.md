@@ -3,7 +3,7 @@ layout: page
 title: Com2SiCa
 description: ANR scientific project, 2018-2022. 
 img: /assets/img/Logo_ANR_Com2SiCa_v2.jpg
-importance: 1
+importance: 10
 category: research
 ---
 <div class="row">
