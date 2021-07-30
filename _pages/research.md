@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 collection: research
 title: research
-description: research activities and animation
+description: list of activities below; click on each item for detailed information
 nav: true
 profile:
   align: right
