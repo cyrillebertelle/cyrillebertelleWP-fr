@@ -3,7 +3,7 @@ layout: page
 title: SmartFlow
 description: collaborative project 2SN-LITIS, 2019-2021, Normandie Region 
 img: /assets/img/smartFlow-image.png
-importance: 1
+importance: 30
 category: research
 ---
 <div class="row">
