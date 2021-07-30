@@ -3,7 +3,7 @@ layout: page
 title: SmartLogiLab
 description: LabCom SOGET-LITIS-SFLog
 img: /assets/img/smartLogiLab_logo.png
-importance: 1
+importance: 80
 category: research
 ---
 <div class="row">
