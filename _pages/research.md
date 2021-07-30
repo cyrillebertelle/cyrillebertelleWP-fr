@@ -32,6 +32,8 @@ Résumé à faire
     Abstract (in progress)
   </div>
 
+  Abstract (soon available)
+  
   <ul class="post-list">
     Abstract in progress<br>
     {% for post in paginator.posts %}
