@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 collection: teaching
 title: teaching
-description: Materials for courses you taught
+description: list of activities below; click on each item for detailed information
 display_categories: [current, past]
 nav: true
 profile:
