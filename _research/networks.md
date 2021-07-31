@@ -24,6 +24,19 @@ category: past
 
 * **Co-leader of the "Complex systems" axis in the CNRS 3638 NormaSTIC federation**, which brings together Normandy university researchers in ICST, from 2014 to 2018. 
 
-### Others responsabilities
+### Collective responsabilities
 
-in progress
+* **Vice President of PRES Normandie Université from January to November 2012**  
+In January 2012, I was appointed Vice President of the PRES Normandie Université which had just been created by ministerial decree. At the time, there were three of us to steer this structure with the President Joël Alexandre from Rouen University and a Vice President, Carole Dornier from Caen University. It was a complex task to define the contours of this structure. In particular, we are organising the Normandy research conference, following the conference on teaching; the aim is to cross-reference the research structures and to show the possible synergies between the major areas of focus identified by the institutions.
+
+* **Vice Presidency Research and Valorisation of the University of Le Havre from May 2012 to April 2016**  
+In April 2012, the new president of the University of Le Havre asked me to take on the vice presidency of research and development. This is a job that requires attention and listening to the research units of the University of Le Havre, a multidisciplinary university that is expected to position itself on some specific niches in comparison with the two other Norman universities. Among the many tasks that fall to this function in a budgetary situation that has become difficult as in all French universities, I have notably led the following operations:
+  - The structuring of the SHS, which I had to support following the resumption of the file on the SHS cluster (PRSH), whose statutes had been rejected by the Administration Board before I took up my post. New statutes were drawn up in consultation with the community and were finally adopted by the Administration Board.
+  - The preparation of the research section of the CPER 2014-2020, requiring a specific positioning of our university within the framework of the structures proposed by the Region, particularly at the level of the *"GRR- Grands Réseaux de Recherche"*.
+  - The animation and promotion of research, which led in particular to the first major research day on 3 June 2015 to present all the activities of the laboratories, but also to a promotion day in Logistics in October 2015, which led the Prefect of the Seine Valley to set up a research commission in Logistics to draw up the project for a Logistics Institute in the Seine Valley.
+  - The preparation of the HCERES evaluation process which mobilised all the research actors of the University of Le Havre with support for the units in the preparation of the files and the implementation of a research policy in the framework of the new establishment contract.
+  - The positioning in the ComUE and the ISITE/PIA2 file for which it was necessary to defend and promote the research activities that could be included in this project.
+  - Support for linkages with major national organisation, which led to the INERIS labelling of the UMR SEBIO with the University of Champagne Ardenne and the labelling by the CNRS of federative structures in ICST and in Environmental Sciences.
+  - The development of two secretarial pools for laboratories to facilitate the management of their administration.
+  - The development of the DiRVED (research, development and doctoral studies department) to strengthen the research project set-up and monitoring centres.
+
