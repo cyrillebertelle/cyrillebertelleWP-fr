@@ -27,34 +27,36 @@ Four PhD are in preparation and about fifteen have already been defended under m
 
 ### Phd already defended
 
-* **Abdelhamid Zouhair**, "Multi-agent dynamic case-based reasoning; application to an intelligent tutor system", PhD start: 10/2009, defended on 20/10/2014, co-supervision: Prof. Benaissa Amami (Morocco, co-supervision), co-supervised with Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour and Dr. P. Person (LITIS, Le Havre)  
-**Funding**: civil servant at the Ministry of the City in Morocco  
-**Current position**: Lecturer at the University of Tangier, Morocco.
-
-* **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", PhD start: 11/2011, defended on 12 October 2015, co-supervision: Prof. Eric Sanlaville (LITIS, Le Havre)  
-**Funding**: grant from Iraq in the framework of a doctoral training programme  
-**Current position of the doctor**: assistant professor at the University of Baghdad, Iraq.
-
-* **Clément Duhart**, "Toward Organic Ambient Intelligences? EMMA", PhD started: 12/2012, defended on 21/06/2016.  
-**Funding**: teacher at ECE, Paris  
-**Current situation of the doctor** : post-doctoral fellow at the MIT Media Lab, USA.
-
-* **Thibaut Démare**, "A systemic approach based on agents and dynamic graphs to model the port-metropolis logistic interface", PhD start: 10/2012, defended on 26/09/2016, co-supervision: L. Lévèque (IDEES, Le Havre), A. Dutot (LITIS, Le Havre)  
-**Funding**: allocation from the Le Havre agglomeration community  
-**Current situation of the doctor**: Research engineer on an ERDF project.
-
-* **Suhad Faisal**, "Adaptive Modeling of Urban Dynamics with Mobile Phone Database", PhD start: 04/2012, defended on 26/11/2016  
-**Funding**: grant from Iraq as part of a doctoral training programme  
-**Current position of the doctor**: Senior Lecturer at the University of Baghdad, Iraq.
-
-* **Haifa Rabai**, "Dynamic network of coupled chaotic applications for the study of urban mobility", PhD start: 10/2012, defended on 06/12/2016, co-supervision: R. Charrier (LITIS, Le Havre)  
-**Funding**: allocation d'établissement/MESR  
-**Current position of the doctor**: Head of the IA innovation division at Sopra Steria, Rouen.
+* **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", PhD start: 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
+**Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
+**Current position of the doctor**: Quant analyst at the Autorité des Marchés Financiers. Translated with www.DeepL.com/Translator (free version)
 
 * **Nesrine Masmoudi**, "Bio-inspired methods for graph clustering, applications to data mining and simulation distribution", PhD start: 02/2012, defended on 06/01/2017, co-supervision: Prof. M. Ben Jamaa (Tunisia, co-supervision), co-supervised with Dr. H. Azzag and Dr. M. Lebbah (LIPN, Paris 13)  
 **Funding**: assistant at the engineering school of Sfax  
 **Current situation of the doctor**: looking for a position in a Tunisian university.
 
-* **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", PhD start: 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
-**Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
-**Current position of the doctor**: Quant analyst at the Autorité des Marchés Financiers. Translated with www.DeepL.com/Translator (free version)
+* **Haifa Rabai**, "Dynamic network of coupled chaotic applications for the study of urban mobility", PhD start: 10/2012, defended on 06/12/2016, co-supervision: R. Charrier (LITIS, Le Havre)  
+**Funding**: allocation d'établissement/MESR  
+**Current position of the doctor**: Head of the IA innovation division at Sopra Steria, Rouen.
+
+* **Suhad Faisal**, "Adaptive Modeling of Urban Dynamics with Mobile Phone Database", PhD start: 04/2012, defended on 26/11/2016  
+**Funding**: grant from Iraq as part of a doctoral training programme  
+**Current position of the doctor**: Senior Lecturer at the University of Baghdad, Iraq.
+
+* **Thibaut Démare**, "A systemic approach based on agents and dynamic graphs to model the port-metropolis logistic interface", PhD start: 10/2012, defended on 26/09/2016, co-supervision: L. Lévèque (IDEES, Le Havre), A. Dutot (LITIS, Le Havre)  
+**Funding**: allocation from the Le Havre agglomeration community  
+**Current situation of the doctor**: Research engineer on an ERDF project.
+
+* **Clément Duhart**, "Toward Organic Ambient Intelligences? EMMA", PhD started: 12/2012, defended on 21/06/2016.  
+**Funding**: teacher at ECE, Paris  
+**Current situation of the doctor** : post-doctoral fellow at the MIT Media Lab, USA.
+
+* **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", PhD start: 11/2011, defended on 12 October 2015, co-supervision: Prof. Eric Sanlaville (LITIS, Le Havre)  
+**Funding**: grant from Iraq in the framework of a doctoral training programme  
+**Current position of the doctor**: assistant professor at the University of Baghdad, Iraq.
+
+* **Abdelhamid Zouhair**, "Multi-agent dynamic case-based reasoning; application to an intelligent tutor system", PhD start: 10/2009, defended on 20/10/2014, co-supervision: Prof. Benaissa Amami (Morocco, co-supervision), co-supervised with Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour and Dr. P. Person (LITIS, Le Havre)  
+**Funding**: civil servant at the Ministry of the City in Morocco  
+**Current position**: Lecturer at the University of Tangier, Morocco.
+
+
