@@ -57,6 +57,28 @@ Four PhD are in preparation and about fifteen have already been defended under m
 
 * **Abdelhamid Zouhair**, "Multi-agent dynamic case-based reasoning; application to an intelligent tutor system", PhD start: 10/2009, defended on 20/10/2014, co-supervision: Prof. Benaissa Amami (Morocco, co-supervision), co-supervised with Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour and Dr. P. Person (LITIS, Le Havre)  
 **Funding**: civil servant at the Ministry of the City in Morocco  
-**Current position**: Lecturer at the University of Tangier, Morocco.
+**Current position of the doctor**: Lecturer at the University of Tangier, Morocco.
+
+* **Fahem Kebair**, "Multi-agent modelling of command posts coordinating strategic strategic decision making. Application to the RoboCupRescue simulation system", defended on 28/09/2012, duration: 48 months, co-supervision: Dr. F. Serin (LITIS, Le Havre)  
+**Funding**: Regional doctoral allowance + ATER
+**Current situation of the doctor**: Associate professor at the Higher Institute of Informatics of Tunis, Tunisia.
+
+* **Karim Mahboub**, "Modelling emotional processes in decision making", defended on 22/11/2011, duration: 61 months, co-supervision: Dr. E. Clément (ICONES, Rouen) and Dr. Véronique Jay (LITIS, Le Havre)  
+**Funding**: regional doctoral allowance + ATER  
+**Current position of the doctor**: project manager in an IT company in Dubai.
+
+* **Michel Nabaa**, "Modelling of population flows", defended on 12/04/2011, duration: 54 months (44 months from the beginning of the CIFRE agreement), co-supervision: Prof. D. Olivier and Dr. A. Dutot (LITIS, Le Havre)  
+**Funding**: CIFRE with the community of Le Havre + ATER  
+**Current situation of the doctor**: SSII project manager in Toulouse.
+
+* **Beddine Ould Mohamed Lemine**, "Modelling in game theory by genetic automata genetic automata", defended on 08/06/2010, duration: 43 months, co-supervision: Dr. M. Arfi (LI- TIS, Le Havre) and Dr. C. Selmi (LITIS, Rouen)  
+**Funding**: grant from Mauritania and Egide support  
+**Current situation of the doctor**: Assistant Professor King Khalid University, Saudi Arabia.
+
+* **Rawan Ghnemat**, "Complex systems modeling for geographic information systems", defended on 22/06/2009, duration: 32 months, co-supervision: Prof. G.H.E. Duchamp (LIPN, Paris 13),  
+**Funding**: BGF proposed by the French Embassy in Jordan
+**Current position of the doctor**: Associate Professor at PSUT University, Amman, Jordanie.
+
+
 
 
