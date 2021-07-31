@@ -2,8 +2,8 @@
 layout: page
 permalink: /teaching/
 collection: teaching
-title: teaching
-description: list of activities below; click on each item for detailed information
+title: enseignements
+description: liste de mes activitées ci-dessous; cliquer sur chaque item pour plus d'information
 display_categories: [current, past]
 nav: true
 profile:
