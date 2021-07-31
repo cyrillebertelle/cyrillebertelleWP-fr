@@ -1,6 +1,6 @@
 ---
 layout: post
-title: conferences management
+title: animation et gestion de conferences
 date: 2021-07-09
 inline: false
 category: past
