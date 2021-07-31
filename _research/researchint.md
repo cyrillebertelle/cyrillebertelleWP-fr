@@ -1,17 +1,15 @@
 ---
 layout: post
-title: research interests and projects
-description: summary of my research interests and activities
+title: Intérêt et projets de recherche
+description: Résumé de mes intérêts et activités en recherche
 date: 2021-07-10
 inline: false
 category: past
 ---
 
-Summary of my research interests and activities
+Résumé de mes intérêts et activités en recherche
 
 ***
-My research topics concern the modelling and the simulation of complex systems and networks applied to territorial and logistic systems.
+Mes thématiques de recherche portent sur la modélisation et la simulation des systèmes et des réseaux complexes appliqués aux systèmes territoriaux et logistiques afin de produire des outils d’analyse et de reconstruction numérique de leur complexité pour l’ingénierie de l’intelligence territoriale. 
 
-The aim is to produce tools of analysis and numerical reconstruction of their complexity for the engineering of territorial intelligence. 
-
-I developed these last years operations of valorization near the actors and the operators of Le Havre and Normandy territories to promote the concept of smart ports and the development of blockchain technologies.
+J’ai développé ces dernières années des opérations de valorisation auprès des acteurs des territoires havrais et normands pour promouvoir le concept de smart ports et le développement des technologies blockchains.
