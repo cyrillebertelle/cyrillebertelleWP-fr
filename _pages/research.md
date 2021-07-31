@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 collection: research
 title: recherche
-description: list de mes activités ci-dessous ; cliquer sur chaque item pour plus d'information
+description: liste de mes activités ci-dessous ; cliquer sur chaque item pour plus d'information
 nav: true
 profile:
   align: right
