@@ -6,7 +6,6 @@ inline: false
 category: past
 ---
 
-
 ## organisation of conferences (2017-2020)
 
 * Member of the organising committee of the [RIRL 2020 international meetings](https://rirl2020.sciencesconf.org/), 7-9 October 2020, ISEL, Université Le Havre Normandie, France.
