@@ -29,7 +29,7 @@ Four PhD are in preparation and about fifteen have already been defended under m
 
 * **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", PhD start: 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
 **Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
-**Current position of the doctor**: Quant analyst at the Autorité des Marchés Financiers. Translated with www.DeepL.com/Translator (free version)
+**Current position of the doctor**: Quant analyst at the Autorité des Marchés Financiers.
 
 * **Nesrine Masmoudi**, "Bio-inspired methods for graph clustering, applications to data mining and simulation distribution", PhD start: 02/2012, defended on 06/01/2017, co-supervision: Prof. M. Ben Jamaa (Tunisia, co-supervision), co-supervised with Dr. H. Azzag and Dr. M. Lebbah (LIPN, Paris 13)  
 **Funding**: assistant at the engineering school of Sfax  
@@ -59,12 +59,8 @@ Four PhD are in preparation and about fifteen have already been defended under m
 **Funding**: civil servant at the Ministry of the City in Morocco  
 **Current position of the doctor**: Lecturer at the University of Tangier, Morocco.
 
-* **Fahem Kebair**, "Multi-agent modelling of command posts coordinating strategic strategic decision making. Application to the RoboCupRescue simulation system", defended on 28/09/2012, duration: 48 months, co-supervision: Dr. F. Serin (LITIS, Le Havre)  
-**Funding**: Regional doctoral allowance + ATER
-**Current situation of the doctor**: Associate professor at the Higher Institute of Informatics of Tunis, Tunisia.
-
 * **Karim Mahboub**, "Modelling emotional processes in decision making", defended on 22/11/2011, duration: 61 months, co-supervision: Dr. E. Clément (ICONES, Rouen) and Dr. Véronique Jay (LITIS, Le Havre)  
-**Funding**: regional doctoral allowance + ATER  
+**Funding**: regional doctoral allocation + ATER  
 **Current position of the doctor**: project manager in an IT company in Dubai.
 
 * **Michel Nabaa**, "Modelling of population flows", defended on 12/04/2011, duration: 54 months (44 months from the beginning of the CIFRE agreement), co-supervision: Prof. D. Olivier and Dr. A. Dutot (LITIS, Le Havre)  
@@ -75,9 +71,36 @@ Four PhD are in preparation and about fifteen have already been defended under m
 **Funding**: grant from Mauritania and Egide support  
 **Current situation of the doctor**: Assistant Professor King Khalid University, Saudi Arabia.
 
+* **Fahem Kebair**, "Multi-agent modelling of command posts coordinating strategic strategic decision making. Application to the RoboCupRescue simulation system", defended on 28/09/2009, duration: 48 months, co-supervision: Dr. F. Serin (LITIS, Le Havre)  
+**Funding**: regional doctoral allocation + ATER
+**Current situation of the doctor**: Associate professor at the Higher Institute of Informatics of Tunis, Tunisia.
+
 * **Rawan Ghnemat**, "Complex systems modeling for geographic information systems", defended on 22/06/2009, duration: 32 months, co-supervision: Prof. G.H.E. Duchamp (LIPN, Paris 13),  
-**Funding**: BGF proposed by the French Embassy in Jordan
-**Current position of the doctor**: Associate Professor at PSUT University, Amman, Jordanie.
+**Funding**: BGF proposed by the French Embassy in Jordan  
+**Current position of the doctor**: Associate Professor and Chairman of the Computer Science Department at PSUT University, Amman, Jordan.
+
+* **Luaï Jaff**, "Dynamic Data Structures for Complex Systems", defended on 30/03/2007, co-supervision: Prof. G.H.E. Duchamp (LIPN, Paris 13),  
+**Funding**: BGF proposed by the French Embassy in Irak
+**Current position of the doctor**: IT consultant, Municipal Councillor of Sèvres, France
+
+* **Guillaume Prévost**, "Modélisation multi-niveaux d’écosystème aquatique par des approches mixtes", defended on 02/12/2005, I was the daily supervisor of this PhD officialy directed by Prof. A. Cardon (LIH, Le Havre).  
+**Funding**: regional doctoral allocation
+**Current position of the doctor**: Technical Manager Big Data at Orange Applications for Business
+
+* **Khalaf Khatatneh**, "Operators for complex modeling", defended on 12/07/2005, I was co-supervisor of this PhD directed by G.H.E. Duchamp (LIPN, Paris 13).  
+**Funding**: allocation for Al-Balqa Applied University, Al-Salt, Jordan.
+**Current position of the doctor**: Associate Professor and Dean of the faculty of Communication and Information Technology at Al-Balqa Applied University, Al-Salt, Jordan.
+
+* **Pierrick Tranouez**, "Contribution to the modelling and computational consideration of multiple levels of description - Application to aquatic ecosystems", defended on 25/03/2005, I was the daily supervisor of this PhD officialy directed by Prof. A. Cardon (LIH, Le Havre).
+**Funding**: regional doctoral allocation
+**Current position of the doctor**: Research Engineer at LITIS, Rouen, France.
+
+* **Bernard Adouobo**, "Numerical simulations of particle and particle-mesh methods on parallel machines", defended on 30/09/1998, I was the daily supervisor of this PhD officialy directed by Prof. S. Huberson (LOMC, Le Havre).
+**Funding**: Côte d'Ivoire doctoral grant
+**Current position of the doctor**: Manager of [ABTOO](http://www.abtoo.com), Design office and simulation (static and dynamic) of road traffic.
+
+
+
 
 
 
