@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: accueil
 permalink: /
 description: 
   <a href="https://www.litislab.fr/">LITIS Lab.</a> /  
