@@ -10,7 +10,7 @@ description:
   <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
   <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - 
   <a href="https://www.google.fr/maps/place/Le+Havre/@46.8893002,-2.5055358,6z/data=!4m5!3m4!1s0x47e02f2395218b7d:0x5bc1867aaf33af12!8m2!3d49.49437!4d0.107929">France<br><br>
-  <a href="https://cyrillebertelle.github.io/cyrillebertelleWP/">Site en français (prochainement disponible) </a>
+  <a href="https://cyrillebertelle.github.io/cyrillebertelleWP/">English version of this website </a>
 
 profile:
   align: right
@@ -24,21 +24,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle is full Professor in Computer Science at LITIS & NORMASTIC FR-CNRS 3638 at Normandy University – Le Havre, France. He is also Director of SFLog, Research Federation in Logistics, Normandie. He is co-coordinator of CS-DC (Complex System Digital Campus) UNESCO UniTwin.  
+Cyrille Bertelle est professeur des universités en informatique au LITIS, FR-CNRS 3638 à Normandie Univ – Université Le Havre Normandie, France. Il est aussi directeur de la structure fédérative de recherche en Logistique en Normandie, SFLog. Il est co-coordinateurr du réseau international UniTwin CS-DC (Complex System Digital Campus) labellisé par l'UNESCO.  
    
    
-## current research interests and projects
-- Complex Systems Modelling and Simulation
-- Complex Networks for Territorial Intelligence and Logistics Systems
-- Blockchains for Smart Ports  
+## Intérêt et projets de recherche actuels
+- Modélisation et simulation des systèmes complexes
+- Réseaux complexes pour l'intelligence territoriale et les systèmes logistiques
+- Blockchains pour les Smart Ports  
   
   
-## responsabilities
-- Director of SFLog, the Federative Structure for Research in Logistics
-- President of the Intitute for Smart Logistics in the Seine Valley
-- Co-coordinator of the Research and Educational Pôle CTM (Earth-Sea Continuum) in Normandie
-- Co-coordinator of UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
-- Co-coordinator of ISCN (Complex Systems Institute in Normandie)
+## responsabilités
+- Directeur de SFLog, la structure fédérative de recherche en Logistique en Normandie
+- President du GIS Intitut pour une logistique intelligente en Vallée de Seine
+- Co-coordinateur du pôle de formation et de recherche CTM (Continuum Terre Mer) de Normandie Univ.
+- Co-coordinateur de l'UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
+- Co-coordinateur de l'ISCN (Institut des systèmes complexes en Normandie)
 
 ## contact
 - **Postal Address** :  
