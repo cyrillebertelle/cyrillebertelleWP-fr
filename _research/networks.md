@@ -32,14 +32,22 @@ En Janvier 2012, je suis nommé Vice Président du PRES Normandie Université qu
 * **Vice Président Recherche et Valorisation de l'université du Havre de Mai 2012 à Avril 2016**  
 En avril 2012, le nouveau président de l’Université du Havre me sollicite pour assurer la vice présidence de la recherche et de la valorisation. Il s’agit d’un travail qui nécessite une attention et une écoute au- près des unités de recherche de l’université du Havre, université pluridisciplinaire qui est attendue pour se positionner sur quelques niches spécifiques face aux deux autres universités normandes. Parmi les nombreuses tâches qui incombent à cette fonction dans une situation budgétaire qui est devenue difficile
 comme dans l’ensemble des universités françaises, j’ai notamment conduit les opérations suivantes :
-  — La structuration en SHS que j’ai du soutenir suite à une reprise du dossier sur le pôle en SHS (PRSH) dont les statuts avaient été recalés auprès du CA, avant mon arrivé à ces fonctions. Des nouveaux statuts ont été élaborés avec l’écoute des acteurs de la communauté pour être finalement adopté par le CA.
-  — La préparation du volet recherche du CPER2014-2020, nécessitant un positionnement spécifique de notre université dans le cadre des structurations proposées par la Région, notamment au niveau des Grands Réseaux de Recherche.
-  — L’animation et la valorisation de la recherche qui a conduit notamment à la première grande journée de la recherche, le 3 juin 2015 pour présenter l’ensemble des activités des laboratoires mais également à une journée de valorisation en Logistique en octobre 2015 qui a conduit le Préfet de la Vallée de Seine à mettre en place une commission recherche en Logistique pour élaborer le projet d’un institut de la logistique en Vallée de Seine.
-  — La préparation du dossier HCERES qui a mobilisé l’ensemble des acteurs en recherche de l’uni- versité du Havre avec un accompagnement des unités dans la prépartion des dossiers et la mise en place d’une politique de recherche dans le cadre du nouveau contrat d’établissement.
-  — Le positionnement dans la ComUE et le dossier ISITE/PIA2 pour lequel il fallait défendre et valoriser les activités de recherche qu’il était possible de faire émarger à ce projet.
-  — l’aide aux rapprochements avec les grands organismes qui a conduit à la labellisation INERIS de l’UMR SEBIO avec l’université de Champagne Ardenne et la labellisation par le CNRS de structures fédératives en STIC et en Sciences de l’environnement.
-  — Le développement de deux pool de secrétariat pour les laboratoires facilitant la gestion de leur administration.
-  — Le développement de la DiRVED (direction de la recherche, valorisation et etudes doctorale) pour renforcer les pôles montage et suivis des projets de recherche.
+
+  - La structuration en SHS que j’ai du soutenir suite à une reprise du dossier sur le pôle en SHS (PRSH) dont les statuts avaient été recalés auprès du CA, avant mon arrivé à ces fonctions. Des nouveaux statuts ont été élaborés avec l’écoute des acteurs de la communauté pour être finalement adopté par le CA.
+
+  - La préparation du volet recherche du CPER2014-2020, nécessitant un positionnement spécifique de notre université dans le cadre des structurations proposées par la Région, notamment au niveau des Grands Réseaux de Recherche.
+
+  - L’animation et la valorisation de la recherche qui a conduit notamment à la première grande journée de la recherche, le 3 juin 2015 pour présenter l’ensemble des activités des laboratoires mais également à une journée de valorisation en Logistique en octobre 2015 qui a conduit le Préfet de la Vallée de Seine à mettre en place une commission recherche en Logistique pour élaborer le projet d’un institut de la logistique en Vallée de Seine.
+
+  - La préparation du dossier HCERES qui a mobilisé l’ensemble des acteurs en recherche de l’uni- versité du Havre avec un accompagnement des unités dans la prépartion des dossiers et la mise en place d’une politique de recherche dans le cadre du nouveau contrat d’établissement.
+
+  - Le positionnement dans la ComUE et le dossier ISITE/PIA2 pour lequel il fallait défendre et valoriser les activités de recherche qu’il était possible de faire émarger à ce projet.
+
+  - l’aide aux rapprochements avec les grands organismes qui a conduit à la labellisation INERIS de l’UMR SEBIO avec l’université de Champagne Ardenne et la labellisation par le CNRS de structures fédératives en STIC et en Sciences de l’environnement.
+  
+  - Le développement de deux pool de secrétariat pour les laboratoires facilitant la gestion de leur administration.
+  
+  - Le développement de la DiRVED (direction de la recherche, valorisation et etudes doctorale) pour renforcer les pôles montage et suivis des projets de recherche.
 
 
 
