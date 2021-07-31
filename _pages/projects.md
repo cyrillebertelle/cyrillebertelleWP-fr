@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: projets
 permalink: /projects/
-description: list of projects below; click on each box for detailed information
+description: liste des projets ci-dessous; cliquer sur chaque box pour plus d'information
 nav: true
 display_categories: [research, dissemination, others]
 horizontal: false
