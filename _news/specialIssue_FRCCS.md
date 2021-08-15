@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Special Issue FRCCS 2021 - Applied Network Science
+title: numéro spécial FRCCS 2021 de la revues internationale Applied Network Science
 date: 2021-07-05
 inline: false
 ---
 
-Following the French Regional Conference on Complex Systems, May 26-28, 2021, Dijon, France, 
-a special issue of the journal **Applied Network Science** published by Springer is proposed.
+Suite à la conférence régionale française sur les systèmes complexes qui s'est tenue du 26 au 28 mai à Dijon, France, un numéro spécial de la revue internationale  **Applied Network Science** publiée par Springer est proposé.
 
 ***
 
-More information is available [here](https://appliednetsci.springeropen.com/frccs2021).
+Pour y participer, consulter la [page web dédiée](https://appliednetsci.springeropen.com/frccs2021).
