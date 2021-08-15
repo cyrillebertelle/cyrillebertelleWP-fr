@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Participation to Blockchain'21, October 6-8, 2021, Salamanca, Spain
+title: participation à la conférence Blockchain'21, du § au 8 octobre 2021, Salamanca, Spain
 date: 2021-07-9
 inline: false
 ---
 
-Oral communication to the 3rd International Congress on Blockchain and Applications 
+Communication orale au 3ème congrès international sur les blockchains et leurs applications 
 
 ***
 
-The submitted communication "Establish trust for sharing data for smart territories thanks to consents notarized by blockchain" by Mongetro Goint, Cyrille Bertelle, and Claude Duvallet has been selected for an oral presentation at
+La communication "Establish trust for sharing data for smart territories thanks to consents notarized by blockchain" soumise par Mongetro Goint, Cyrille Bertelle et Claude Duvallet a été retenue pour une présentation orale à 
 [Blochchain'21](https://www.blockchain-congress.net/).
 
 
