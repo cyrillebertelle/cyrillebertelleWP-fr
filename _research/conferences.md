@@ -24,7 +24,7 @@ category: past
 
 * Co-organisateur du colloque international [IPaSPort’2017](http://ipasport.univ-lehavre.fr), May 3-4, Le Havre, Normandie.   
 
-##  Conférencier invité / Keynote speaker (2014-2020)
+###  Conférencier invité / Keynote speaker (2014-2020)
 
 * "Table ronde : Innovation et cybersécurité au service du monde maritime", Rencontres Cybersécurité Normandie, organisé par CyberCercle, 10 décembre 2020.
 
@@ -48,7 +48,7 @@ category: past
 
 * "Complexité multi-échelle des réseaux routiers et de leur vulnérabilité pour la prévention et la gestion des risques", conférencier invité au séminaire "sécurité routière : mesure, enjeux et stratégies d’acteurs", le 25 mai 2014 à l’université d’Oran en Algérie.
 
-## invitation pour des séjours dans des universités étrangères
+### invitation pour des séjours dans des universités étrangères
 
 * Ecole Centrale de Casablanca : invitation du 19 au 21 avril 2017 pour effectuer un séminaire recherche sur les systèmes complexes et la logistique dans le cadre de la réflexion sur le dévelop- pement de la recherche dans cette école.
 
@@ -58,5 +58,5 @@ category: past
 
 * Université d’INHA en Corée du Sud : invitation de 2 semaines dans le département informatique, avril 2012.
 
-## scientific committee / editorial board /expertise 
+### scientific committee / editorial board /expertise 
 
