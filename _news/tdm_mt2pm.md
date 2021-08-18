@@ -1,6 +1,6 @@
 ---
 layout: post
-title: rencontre "Territoire de demain", 10 Septembre 2021, Port Center Le Havre 
+title: rencontre "Territoire de demain", 10 Septembre 2021,<br> Port Center Le Havre 
 date: 2021-07-10
 inline: false
 ---
