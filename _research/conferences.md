@@ -8,6 +8,15 @@ category: past
 
 ### organisation de conférences (2017-2020)
 
+* Co-chairman de [ICoSCal'21](https://icoscal21.sciencesconf.org/), conférence internationale sur les smart corridors et la logistique, du 24 au 26 novembre 2021, Le Havre, France.
+
+* Co-organisateur des rencontres scientifique et d'innovation "Territoire de demain - Informations numériques géolocalisées et fréquentation touristique en Normandie”, le 10 septembre 2021 au Port Center du Havre. Cet évènement est organisé dans le cadre du projet de recherche MT2PM. Un flyer est accessible [ici](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/plaquette_MT2PM_territoires_de_demain_vdef.pdf)
+
+* Co-organisateur du workshop satellite [CSS Chapters](https://compsysfrance.wixsite.com/chapters), le 27 octobre 2021 dans le cadre de la conférence internationale [CSS 2021](https://ccs2021.univ-lyon1.fr/#HOME) à Lyon, France
+
+* Co-organisateur de la conférence [FRCCS 2021](https://iutdijon.u-bourgogne.fr/ccs-france/), French Regional Conference on Complex Systems, du 26 au 28 mai 2021, Dijon, France.  
+Un numéro spécial de la revue _Applied Network Science, Springer_ est proposé et accessible [ici](https://appliednetsci.springeropen.com/frccs2021)
+
 * Membre du comité d’organisation des [13e rencontres internationales RIRL 2020](https://rirl2020.sciencesconf.org/), 7-9 octobre 2020, ISEL, Université Le Havre Normandie, France.
 
 * Co-chairman avec Patricia Sajous de la [conférence internationale XTerM2019](https://xterm2019.sciencesconf.org/), 26-28 juin 2019, Le Havre. Sept keynote speakers ont été invités. Un livre dans la collection "Understanding Complex System" chez Springer a été publié début 2021 dans la suite des contributions à cette conférence XTerM et du projet FEDER éponyme.  
