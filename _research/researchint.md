@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intérêt et projets de recherche
+title: intérêt et projets de recherche
 description: Résumé de mes intérêts et activités en recherche
 date: 2021-07-10
 inline: false
