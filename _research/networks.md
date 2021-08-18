@@ -8,7 +8,7 @@ category: past
 ---
 
 
-### Direction de laboratores, d'instituts, de réseaux internationaux, d'équipes de recherche
+### direction de laboratores, d'instituts, de réseaux internationaux, d'équipes de recherche
 
 * **Président du GIS "Institut pour une logistique intelligente en Vallée de Seine"**, depuis décembre 2020. La création de ce GIS fait suite à un groupe de travail mis en place depuis 2017 par le Préfet Philizot de la mission inter-ministérielle de la Vallée de Seine, afin de structurer et coordonner les recherches en logistique sur les régions normandes et de l’île de France.
 
@@ -24,7 +24,7 @@ category: past
 
 * **Co-animateur de l’axe "Systèmes complexes" dans la fédération CNRS 3638 NormaSTIC** qui réunit les chercheurs universitaires normand en STIC, de 2014 à 2018.
 
-### Responsabilitées collectives
+### responsabilitées collectives
 
 * **Vice Président du PRES Normandie Université de Janvier à November 2012**  
 En Janvier 2012, je suis nommé Vice Président du PRES Normandie Université qui vient d’être crée par décret ministériel. Nous sommes à l’époque trois pour piloter cette structure avec le Président Joël Alexandre de Rouen et une Vice Présidente, Carole Dornier de Caen. La tâche est complexe pour préciser les contours de cette structure. Nous organisons notamment les assises de la recherche en Normandie, faisant suite aux assises sur l’enseignement ; le but est de croiser les structures de recherche et de montrer les synergies possibles entre les grands axes affichés par les établissements.
