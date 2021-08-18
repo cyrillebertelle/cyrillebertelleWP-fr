@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Direction de thèses
+title: direction de thèses
 description: 
 date: 2021-07-08
 inline: false
@@ -11,7 +11,7 @@ Quatre thèses sous ma direction sont en cours et dix-huit ont déjà été sout
 
 ***
 
-### Phd in preparation
+### phd in preparation
 
 * **Rim Abdallah**, "Secured traceability of hazardous materials transport management in smart ports by blockchain technologies", début de thèse : 03/2021, expected date of defense: 03/2024, co-supervised by Dr. Claude Duvallet (LITIS, Le Havre).  
 **Funding**: CIFRE agreement with HAROPA, consortium of the ports of Le Havre, Rouen and Paris.
@@ -25,7 +25,7 @@ Quatre thèses sous ma direction sont en cours et dix-huit ont déjà été sout
 * **Camille Simon**, "Securing distributed supply chains by Blockchain and smart contracts", début de thèse : 11/2018, expected defense date: 03/2022 (sick leave covid in 2020), co-supervised by Dr. Claude Duvallet (LITIS, Le Havre).  
 **Funding**: allocation from the Communauté d'Agglomération du Havre (LHSM).
 
-### Phd already defended
+### phd already defended
 
 * **Iris Lucas**, "Dynamics and control of an intelligent multi-agent system with application to an equity financial market", début de thèse : 05/2015, defended on 17/07/2018, co-supervision: Michel Cotsaftis (ECE, Paris)  
 **Financing**: employed (permanent contract) at AVIVA Investors as an economic, financial and statistical researcher.  
