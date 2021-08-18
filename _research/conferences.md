@@ -1,6 +1,6 @@
 ---
 layout: post
-title: animation et gestion de conferences
+title: animation et gestion de conférences
 date: 2021-07-09
 inline: false
 category: past
@@ -24,7 +24,7 @@ category: past
 
 * Co-organisateur du colloque international [IPaSPort’2017](http://ipasport.univ-lehavre.fr), May 3-4, Le Havre, Normandie.   
 
-###  Conférencier invité / Keynote speaker (2014-2020)
+###  conférencier invité / Keynote speaker (2014-2020)
 
 * "Table ronde : Innovation et cybersécurité au service du monde maritime", Rencontres Cybersécurité Normandie, organisé par CyberCercle, 10 décembre 2020.
 
