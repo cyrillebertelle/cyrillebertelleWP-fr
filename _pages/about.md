@@ -28,7 +28,7 @@ social: true  # includes social icons at the bottom of the page
 Cyrille Bertelle est professeur des universités en informatique au LITIS, FR-CNRS 3638 à Normandie Univ – Université Le Havre Normandie, France. Il est aussi directeur de la structure fédérative de recherche en Logistique en Normandie, SFLog. Il est co-coordinateurr du réseau international UniTwin CS-DC (Complex System Digital Campus) labellisé par l'UNESCO.  
    
    
-## Intérêt et projets de recherche actuels
+## intérêt et projets de recherche actuels
 - Modélisation et simulation des systèmes complexes
 - Réseaux complexes pour l'intelligence territoriale et les systèmes logistiques
 - Blockchains pour les Smart Ports  
