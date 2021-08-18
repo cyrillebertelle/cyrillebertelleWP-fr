@@ -99,7 +99,30 @@ Quatre thèses sous ma direction sont en cours et dix-huit ont déjà été sout
 **Funding**: Côte d'Ivoire doctoral grant  
 **Current position of the doctor**: Manager of [ABTOO](http://www.abtoo.com), Design office and simulation (static and dynamic) of road traffic.
 
+### Participation a des jurys de thèse et d’HDR (2018-2021)
 
+En plus des thèses que j’ai moi-même encadrées et qui sont listées ci-dessus, j’ai participé à un grand nombre de jurys de thèse ou HDR en France ou à l’étranger. Je mentionne ci-dessous (1) toutes les
+participations à des jurys d’HDR , (2) les seules participations à des jurys de thèse lorsque j’étais soit rapporteur, soit président du jury, sur la période 2018-2021 :
+
+* Rapporteur de la thèse de Maroi Agrebi soutenue le 12/04/2018 à l’université polytechnique des Haut de France et de l’université de Sfax ;
+
+* Président du jury de la thèse de Ebtissem Sassi soutenue le 05/04/2019 à l’université Le Havre Normandie ;
+
+* Rapporteur de la thèse de Mouna Rifi soutenue le 03/05/2019 à l’université Sorbonne Paris Cité ;
+
+* Examinateur de l’HDR d’Olivier Bonin soutenue le 27/05/2019 à l’université de Besançon ;
+
+* Rapporteur de l’HDR de Hichem Oumrani soutenue le 24/06/2019 à l’université de technologie de Compiègne ;
+
+* Président du jury de thèse de Youssa Sidqi soutenue le 22/10/2019 à l’université Grenoble Alpes ;
+
+* Examinateur de l’HDR de Damienne Provitolo soutenue le 06/12/2019 à Sophia Antipolis ;
+
+* Rapporteur de la thèse de Cheikhou Oumar Ka soutenue le 11/12/2019 à l’université de Dakar au Sénégal
+
+* Rapporteur de la thèse de Igor Tchappi Haman soutenue le 13/05/2020 à l’université technologique de Belfort Monbéliard ;
+
+* Rapporteur de la thèse de Audren Bouadjio-Boulic soutenue le 18/03/2021 à l’université de Toulouse 1 Capitole.
 
 
 
