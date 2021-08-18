@@ -11,8 +11,7 @@ description:
   <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - 
   <a href="https://www.google.fr/maps/place/Le+Havre/@46.8893002,-2.5055358,6z/data=!4m5!3m4!1s0x47e02f2395218b7d:0x5bc1867aaf33af12!8m2!3d49.49437!4d0.107929">France<br><br>
   <a href="https://cyrillebertelle.github.io/cyrillebertelleWP/">English version of this website </a><br>
-  Attention cette version du site n'est pas encore complètement traduite en français.
-
+  
 profile:
   align: right
   image: cyrille2016-nb.jpg
