@@ -13,7 +13,7 @@ category: research
 </div>
 <!--
 <div class="caption">
-    MT2PM logo
+    MT2PM logo 
 </div>
 -->
 
