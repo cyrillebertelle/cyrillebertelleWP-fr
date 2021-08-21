@@ -11,9 +11,11 @@ category: research
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Logo_ANR_Com2SiCa_v3.jpg' | relative_url }}" alt="" title="Com2SiCa logo"/>
     </div>
 </div>
+<!--
 <div class="caption">
     Com2SiCa logo
 </div>
+-->
 
 Le projet Com2SiCa (COMprendre et SImuler les COMportements humains sur des territoires en situation de CAtastrophe : de l’analyse à l’anticipation) vise à relever les grands défis actuels dans le domaine de la sécurité et de la sûreté des populations, c’est à dire progresser dans notre compréhension et capacité à anticiper les comportements humains, individuels et collectifs, face à des menaces et des catastrophes complexes et de toute origine, en s'affranchissant des cloisonnements traditionnels.
 
