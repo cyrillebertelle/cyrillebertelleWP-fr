@@ -15,7 +15,25 @@ category: research
     XTerM logo
 </div>
 
-in progress
+Le projet XTERM (Systèmes Complexes, Intelligence Territoriale et Mobilité) aborde la modélisation des systèmes territoriaux et des mobilités associées face aux nouveaux enjeux sociétaux et économiques. Le territoire est le support et le produit d’acteurs au travers d’une boucle de rétroaction qui fait système.
+
+Dans cette approche systémique, on considère que la multitude des comportements individuels (acteurs et/ou agents), des mobilités, des intentions finissent par « faire » du territoire (à l’échelle de la ville, du quartier, de la région, etc.), sans que le résultat final ne corresponde obligatoirement aux choix, aux représentations ou aux intentions de certains acteurs. Cette approche nécessite donc l’intégration de la complexité organisationnelle existant au sein de ces systèmes. Elle nécessite également la prise en compte des dynamiques, des évolutions territoriales et sociétales.
+
+**Mots clés** : réseaux complexes, mobilité, compétitivité territoriale, morpho-dynamique, systèmes d’aide à la décision.
+
+**XTERM propose d’apporter des éléments de réponses, riche d’une structuration déjà établie lors du précèdent CPER, au sein du projet RISC et de l’année de préfiguration XTERM (campagne GRR 2014) et qui a réuni un grand nombre d’acteurs. Nous allons au-delà d’une vision projet pour poser des problématiques générales sur les structurations territoriales. Nous les abordons par des méthodologies innovantes inspirées des concepts des systèmes complexes. La région Normandie bénéficie de l’institut des systèmes complexes en Normandie (ISCN), nœud bien identifié du réseau national sur les systèmes complexes, en interaction forte avec XTERM. Enfin, XTERM a reçu en juillet 2015 le label du pôle de compétitivité Nov@log, au titre de sa capacité à alimenter la recherche technologique et l’innovation.**
+
+**Coordonnateurs scientifiques** : Patricia Sajous (IDEES, Université Le Havre Normandie) et Cyrille Bertelle (LITIS, Université Le Havre Normandie)
+
+Un consortium a été développé pour la réalisation de ce projet. Il a réuni depuis son lancement : 139 participants correspondant à 68 permanents, 35 collaborateurs extérieurs et 36 contractuels (doctorants, ATER, IGE ou IGR) issus de 14 organismes de recherche appartenant à 8 établissements (Universités Le Havre Normandie, de Rouen Normandie et de Caen Normandie, Insa de Rouen Normandie, IDIT, NEOMA- BS, CESI, ESIGELEC) : CETAPS (Rouen), CORIA (Rouen), CRITT TL (Le Havre), IDIT (Rouen), LITIS (Le Havre et Rouen), LMAH (Le Havre), LMI (Rouen), LMR (Rouen), LMRS (Rouen), MOBIS / NEOMA Business school (Rouen), IDEES-LTG (Rouen), IRSEEM / ESIGELEC (Rouen), IRISE / CISE (Rouen).
+
+La dotation globale obtenue a été de 1,5 MEuros.
+
+Ce consortium a produit à l’issue du projet, un total de 151 articles dans des revues scientifiques, 179 communications en conférences et 34 autres publications (ouvrages, coordinations de numéros spéciaux de revues, thèses ...) sur les sujets développés dans ce projet.
+
+Un rapport d'activités de 232 pages a été réalisés à l'issu de de projet et il est accessible [ici]((https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/Rapport-Scientifique-xterM201911.pdf))
+
+
 
 <!-- 
 Every project has a beautiful feature showcase page.
