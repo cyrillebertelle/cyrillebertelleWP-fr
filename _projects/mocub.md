@@ -11,7 +11,7 @@ category: research
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mocub_logo-v2.png' | relative_url }}" alt="" title="XTerM logo"/>
     </div>
 </div>
-<!-->
+<!--
 <div class="caption">
     MOCUB logo
 </div>
