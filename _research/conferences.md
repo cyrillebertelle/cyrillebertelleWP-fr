@@ -67,12 +67,3 @@ Un numéro spécial de la revue _Applied Network Science, Springer_ est proposé
 
 * Université d’INHA en Corée du Sud : invitation de 2 semaines dans le département informatique, avril 2012.
 
-### scientific committee / editorial board /expertise 
-
-* Guest Editor du numéro spécial [“TS: Special Issue of the French Regional Conference on Complex Systems (FRCCS 2021)”](https://appliednetsci.springeropen.com/frccs2021) de la revue internationale [_Applied Network Science_](https://appliednetsci.springeropen.com/), publiée chez Springer.
-
-* Participation aux travaux de l’UN/CEFACS à Rome, le 4 octobre 2017 : journée sur la Blockchain pour la réalisation d’un white paper.
-
-* Participation à la délégation de la Région Normandie dans le cadre du développement d’une Task Force renforçant la présence de la Normandie auprès de la Commission européenne : séminaire "Axe Seine" du 20 au 21 juin 2017 à Bruxelles ; je représentais l’Université Le Havre Normandie dans cette délégation. 
-
-* Participation à l’écriture de la feuille de route nationale sur les systèmes complexes, à l’initiative du RNSC et de ses instituts régionaux (ISCN, ISC-PIF, XSYS, IXXI), du 21 au 23 juin 2017, à Châtenay-sur-Seine.
