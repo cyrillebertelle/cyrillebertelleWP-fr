@@ -29,7 +29,9 @@ Un consortium a été développé pour la réalisation de ce projet. Il a réuni
 
 La dotation globale obtenue a été de 1,5 MEuros.
 
-Ce consortium a produit à l’issue du projet, un total de 151 articles dans des revues scientifiques, 179 communications en conférences et 34 autres publications (ouvrages, coordinations de numéros spéciaux de revues, thèses ...) sur les sujets développés dans ce projet.
+Ce consortium a produit à l’issue du projet, un total de 151 articles dans des revues scientifiques, 179 communications en conférences et 34 autres publications (ouvrages, coordinations de numéros spéciaux de revues, thèses ...) sur les sujets développés dans ce projet. 
+
+Il a donné lieu également au colloque international [XTerM2019](https://xterm2019.sciencesconf.org/) et à la publication d'un [ouvrage collectif chez Springer.](https://link.springer.com/book/10.1007/978-3-030-59302-5)
 
 Un rapport d'activités de 232 pages a été réalisés à l'issu de de projet et il est accessible [ici]((https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/Rapport-Scientifique-xterM201911.pdf))
 
