@@ -2,13 +2,13 @@
 layout: page
 title: XTerM
 description: ERDF scientific project, 2015-2019, Normandie Region 
-img: /assets/img/logoXterm.png
+img: /assets/img/logoXterm-v2.png
 importance: 20
 category: research
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logoXterm.png' | relative_url }}" alt="" title="XTerM logo"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logoXterm-v2.png' | relative_url }}" alt="" title="XTerM logo"/>
     </div>
 </div>
 <div class="caption">
