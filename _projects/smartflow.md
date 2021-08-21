@@ -22,8 +22,8 @@ Pour le LITIS et ses chercheurs permanents impliqués (Claude Duvallet et Cyrill
 * Les connaissances capitalisées pourront enrichir les contenus pédagogiques des enseignements.
 * Ce projet débouchera sur des publications dans des revues scientifiques et des colloques. Il permettra de développer la visibilité de Normandie Université dans les technologies de pointes mobilisées dans le secteur de la logistique.
 
-Les livrables concernant la recherche appliquées sont :
-* une synthèse sur les principaux conscepts de la blockchain ;
+Les livrables concernant la recherche appliquée sont :
+* une synthèse sur les principaux concepts de la blockchain ;
 * Un état de l'art sur les différentes plateformes blockchain existantes ;
 * Une mise en oeuvre d'une preuve de concept pour le transfert sécurisé de documents.
 
