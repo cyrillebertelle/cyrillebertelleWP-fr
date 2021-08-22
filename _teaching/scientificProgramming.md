@@ -1,13 +1,13 @@
 ---
 layout: post
 title: programmation scientifique
-description: cours en master 1 mathématiques Info UFRST Université Le Havre Normandie (-> 2016)
+description: **archive** de cours en master 1 mathématiques Info UFRST Université Le Havre Normandie (-> 2016)
 date: 2020-07-10
 inline: false
 category : archives d'anciens cours
 ---
 
-Archive de cours effectué en master 1 mathématiques informatique jusqu'en 2016
+Archive de cours en master 1 mathématiques informatique enseigné jusqu'en 2016
 
 ***
 
