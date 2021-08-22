@@ -7,7 +7,7 @@ inline: false
 category : archives d'anciens cours
 ---
 
-archive d'anciens cours enseigné avant 2010
+archive d'anciens cours enseignés avant 2010
 
 ***
 
