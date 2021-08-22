@@ -25,7 +25,7 @@ Les supports de cours pour les étudiants ont été déposés sur la plateforme 
 * **Chapitre 5** : Modèles individus-centrés et applications sous NetLogo
 * **Chapitre 6** : Modélisation par conception graphique ; modèles compartimentaux et diagrammes de Forrester
 
-Un polycopié partiel du cours est accessible [ici](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/coursMd2pms-20161216.pdf)
+Un polycopié partiel du cours est accessible [ici](https://cyrillebertelle.github.io/cyrillebertelleWP/assets/pdf/coursMd2pms-20161216.pdf)
 
 #### Bibliographie générale principale
 * Patrick Coquillard, David R.C. Hill "Modélisation et simulation d'écosystèmes", Masson, 1997
