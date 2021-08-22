@@ -4,7 +4,7 @@ title: CIFRE HAROPA
 description: traçabilité des matières dangereuses par blockchain 
 img: /assets/img/logo_haropa-v2.png
 importance: 70
-category: research
+category: projets récents
 ---
 
 <div class="row">
