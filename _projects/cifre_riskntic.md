@@ -4,7 +4,7 @@ title: CIFRE Risk'nTIC
 description: modélisation des risques en cybersécurité
 img: /assets/img/logo_riskntic-v2.png
 importance: 90
-category: research
+category: projets récents
 ---
 
 <div class="row">
