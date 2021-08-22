@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIFRE Risk'nTIC - LMAH - LITIS
+title: CIFRE Risk'nTIC
 description: modélisation des risques en cybersécurité
 img: /assets/img/logo_riskntic-v2.png
 importance: 90
