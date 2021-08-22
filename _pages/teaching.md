@@ -16,7 +16,7 @@ pagination:
   enabled: true
   collection: teaching
   permalink: /page/:num/
-  per_page: 8
+  per_page: 7
   sort_field: date
   sort_reverse: true
   trail:
