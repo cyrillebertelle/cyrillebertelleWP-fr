@@ -4,7 +4,7 @@ permalink: /teaching/
 collection: teaching
 title: enseignement
 description: liste de mes activitées ci-dessous; cliquer sur chaque item pour plus d'information
-display_categories: [current, past]
+display_categories: [cours récents, archive d'anciens cours]
 nav: true
 profile:
   align: right
@@ -16,7 +16,7 @@ pagination:
   enabled: true
   collection: teaching
   permalink: /page/:num/
-  per_page: 3
+  per_page: 8
   sort_field: date
   sort_reverse: true
   trail:
