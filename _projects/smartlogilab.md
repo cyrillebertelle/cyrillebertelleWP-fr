@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LabCom SmartLogiLab
-description: Laboratoire commun SOGET-LITIS-SFLog
+title: SmartLogiLab
+description: LabCom SOGET-LITIS-SFLog sur les smart PCS/CCS
 img: /assets/img/smartLogiLab_logo-v2.png
 importance: 77
 category: research
