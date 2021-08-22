@@ -1,8 +1,8 @@
 ---
 layout: post
-title: analyse numérique matricielle
-description: cours en master 1 mathématiques appliquées UFRST Université Le Havre Normandie
-date: 2021-07-10
+title: programmation scientifique
+description: cours en master 1 mathématiques Info UFRST Université Le Havre Normandie (-> 2015)
+date: 2020-07-10
 inline: false
 redirect: https://litis.univ-lehavre.fr/~bertelle/progsci/
 catégory : archives d'anciens cours
