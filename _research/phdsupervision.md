@@ -55,7 +55,7 @@ Quatre thèses sous ma direction sont en cours et dix-huit ont déjà été sout
 **Financement**: bourse de l’Irak dans le cadre d’un programme de formation doctoral  
 **Situation actuelle du docteur**: Maître de conférences à l'université de Bagdad, Irak.
 
-* **Abdelhamid Zouhair**, "Raisonnement à oartir de cas dynamique multi-agent ; application à un système de tuteur intelligent", début de thèse : 10/2009, soutenue le 20/10/2014, co-dirigée par Prof. Benaissa Amami (Morocco, co-supervision), co-encadrée par Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour et Dr. P. Person (LITIS, Le Havre)  
+* **Abdelhamid Zouhair**, "Raisonnement à partir de cas dynamique multi-agent ; application à un système de tuteur intelligent", début de thèse : 10/2009, soutenue le 20/10/2014, co-dirigée par Prof. Benaissa Amami (Morocco, co-supervision), co-encadrée par Dr. E.M. En-Naimi (Morocco), Dr. H. Boukachour et Dr. P. Person (LITIS, Le Havre)  
 **Financement**: fonctionnaire au ministère de la ville au Maroc  
 **Situation actuelle du docteur**: Enseignant-chercheur à l'université 
 Abdelmalek Essaâdi University, Tétouan, Morocco.
