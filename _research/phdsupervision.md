@@ -33,7 +33,7 @@ Quatre thèses sous ma direction sont en cours et dix-huit ont déjà été sout
 
 * **Nesrine Masmoudi**, "Bio-inspired methods for graph clustering, applications to data mining and simulation distribution", début de thèse : 02/2012, defended on 06/01/2017, co-supervision: Prof. M. Ben Jamaa (Tunisia, co-supervision), co-supervised with Dr. H. Azzag and Dr. M. Lebbah (LIPN, Paris 13)  
 **Funding**: assistant at the engineering school of Sfax  
-**Current situation of the doctor**: Maître assistant et Chef du Département informatique de la Faculté d'Administration des Affaires, Université Taibah, Arabie Saoudite.
+**Current situation of the doctor**: Maître assistant et Chef du Département informatique de la Faculté de gestion des entreprises et des administrations, Université Taibah, Arabie Saoudite.
 
 * **Haifa Rabai**, "Dynamic network of coupled chaotic applications for the study of urban mobility", début de thèse : 10/2012, defended on 06/12/2016, co-supervision: R. Charrier (LITIS, Le Havre)  
 **Funding**: allocation d'établissement/MESR  
