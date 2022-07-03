@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Cyrille  Bertelle | blank</title>
+<title>Cyrille  Bertelle | analyse numérique matricielle</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -30,7 +30,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👤</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/teaching/anm-m1ma/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -107,8 +107,6 @@
           
           
           
-          
-          
           <li class="nav-item ">
               <a class="nav-link" href="/teaching/index.html">
                 enseignement
@@ -165,58 +163,59 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">analyse numérique matricielle</h1>
+    <p class="post-meta"></p>
+  <!--  <p class="post-meta">July 10, 2021</p> -->
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2018/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-  </ul>
+  <article class="post-content">
+    <p>Le cours d’analyse numérique matricielle est une spécialisation des méthodes de résolution de  systèmes  linéaires  et  de  recherche  d’éléments  propres.  Dans  ce  cours,  on  s’intéressera notamment aux structurations particulières de ces problèmes linéaires qui apparaissent dans la  discrétisation  des  problèmes  concrets  en  simulation  de  dynamique  des  fluides  ou d’élasticité où les tailles des systèmes peuvent être importantes, nécessitant des algorithmes efficaces et fiables.</p>
+
+<p>Les supports de cours pour les étudiants sont aujourd’hui sur la plateforme Moodle / Eureka de l’Université Le Havre Normandie.</p>
+
+<hr />
+
+<h4 id="enseignant">Enseignant</h4>
+<ul>
+  <li>Cyrille Bertelle, LITIS, Université Le Havre Normandie</li>
+</ul>
+
+<h4 id="contenu">Contenu</h4>
+<ul>
+  <li><strong>Chapitre 1</strong> : Introduction à l’analyse numérique matricielle ; problèmes traités dans le cours et exemples concrets d’applications des méthodes ; rappels d’algèbre linéaire</li>
+  <li><strong>Chapitre 2</strong> : Méthodes directes classiques de résolution de systèmes linéaires ; factorisation LDR ; factorisation QR par la méthode de Givens et par la méthode de Householder</li>
+  <li><strong>Chapitre 3</strong> : Méthodes directes de résolution des systèmes linéaires à matrices creuses ;</li>
+  <li><strong>Chapitre 4</strong> : Méthodes itératives de relaxation ; cas des matrices tridiagonales par blocs ;</li>
+  <li><strong>Chapitre 5</strong> : Méthodes de gradient et de gradient conjugué ;</li>
+  <li><strong>Chapitre 6</strong> : Méthodes numériques de calcul de valeurs propres et de vecteurs propres ;</li>
+  <li><strong>Chapitre 7</strong> : Méthode des directions alternées.</li>
+</ul>
+
+<h4 id="bibliographie-générale-principale">Bibliographie générale principale</h4>
+<ul>
+  <li>Philippe G. Ciarlet “Introduction à l’analyse numérique matricielle et à l’optimisation”, 5e édition, Dunod, 2007</li>
+  <li>Patrick Lascaux et Raymond Théodor “Analyse numérique matricielle appliquée à l’art de l’ingénieur”, 2 tomes, Dunod, 2004</li>
+  <li>Grégoire Allaire “Analyse numérique et optimisation”, Ellipses, 2005</li>
+  <li>Alfio Quarteroni, Riccardo Sacco, Fausto Saleri “Méthodes numériques : algorithmes, analyse et applications”, Springer, 2008</li>
+  <li>Luca Amodel et Jean-Pierre Dedieu “Analyse numérique matricielle”, Dunod, 2008</li>
+</ul>
+
+<h4 id="travaux-de-recherche-développés-sur-le-sujet">Travaux de recherche développés sur le sujet</h4>
+<ul>
+  <li>Zaid M Odibat, Cyrille Bertelle, MA Aziz-Alaoui, Gérard HE Duchamp “A multi-step differential transform method and application to non-chaotic or chaotic systems”, Computers &amp; Mathematics with Applications, Vol 59(4), pp 1462-1472. 2010</li>
+  <li>Bernard Adouobo, Cyrille Bertelle, Serge Huberson “Parallélisation d’une méthode particules-maillages TSC avec PVM”, in Canum’97, Congrès d’analyse numérique, Imbours, France, 1997.</li>
+  <li>Bernard Adouobo, Cyrille Bertelle, Serge Huberson “Simulation numérique d’une méthode particulaire 3D sur origin 2000 à l’aide de PVM”, in Canum’98, Congrès d’analyse numérique, Arles, France, 1998.</li>
+  <li>Bernard Adouobo, Cyrille Bertelle, Serge Huberson “Simulation numérique des équations d’euler à l’aide d’une méthode de vortex de type particule maillage sur une machine parallèle”, in Canum’99, Congrès d’analyse numérique, Ax-Bonascre, France, 1999.</li>
+</ul>
+
+  </article>
 
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blank">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blank - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blank - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
 
 </div>
 
