@@ -14,7 +14,7 @@ description:
   
 profile:
   align: right
-  image: cyrillebertelle20220703.jpg
+  image: cyrillebertelle20220703.png
   address: >
     <p>   </p>
     
