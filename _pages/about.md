@@ -16,7 +16,7 @@ profile:
   align: right
   image: cyrillebertelle20220703.jpg
   address: >
-    <p>   </p>
+    <p>    </p>
     
 
 news: true  # includes a list of news items
