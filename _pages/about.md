@@ -24,7 +24,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle est professeur des universités en informatique au LITIS, FR-CNRS 3638 
+Cyrille Bertelle est professeur des universités en informatique LITIS, FR-CNRS 3638 
 à Normandie Univ – Université Le Havre Normandie, France. 
 Il dirige la structure fédérative de recherche en Logistique en Normandie, SFLog. 
 Il préside le groupement d'intérêt scientifique (GIS) Institut pour une logistique 
