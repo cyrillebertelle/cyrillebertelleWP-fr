@@ -26,11 +26,11 @@ social: true  # includes social icons at the bottom of the page
 
 Cyrille Bertelle est professeur des universités en informatique au LITIS, FR-CNRS 3638 
 à Normandie Univ – Université Le Havre Normandie, France. 
-Il a dirigé la structure fédérative de recherche en Logistique en Normandie, SFLog. 
+Il a dirigé jusqu'en 2025 la structure fédérative de recherche en Logistique en Normandie, SFLog. 
 Il préside le groupement d'intérêt scientifique (GIS) Institut pour une logistique 
 intelligente en Vallée de Seine (ILI-VS). Il dirige SmartLogiLab, Laboratoire commun 
 de recherche et d'innovation piloté par l'entreprise SOGET et le laboratoire LITIS de 
-l'Université Le Havre Normandie et soutneu par l'Agence Nationale de la Recherche (ANR).
+l'Université Le Havre Normandie et soutenu par l'Agence Nationale de la Recherche (ANR).
 Il est co-coordinateurr du réseau international UniTwin CS-DC (Complex System Digital Campus) 
 labellisé par l'UNESCO.  
    
@@ -53,7 +53,7 @@ labellisé par l'UNESCO.
     UFR Sciences et Techniques  
     25 rue Ph. Lebon - BP  1123  
     76063 Le Havre Cedex, FRANCE
-- **Office** : G104 UFRST / S123 PIL-ISEL
+- **Office** : B114 UFRST
 - **Email** : [cyrille.bertelle@univ-lehavre.fr](mailto:cyrille.bertelle@univ-lehavre.fr) 
   
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
