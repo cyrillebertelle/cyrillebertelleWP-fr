@@ -24,16 +24,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle est professeur des universités en informatique au LITIS, FR-CNRS 3638 
-à Normandie Univ – Université Le Havre Normandie, France. 
-Il a dirigé jusqu'en 2025 la structure fédérative de recherche en Logistique en Normandie, SFLog. 
-Il préside le groupement d'intérêt scientifique (GIS) Institut pour une logistique 
-intelligente en Vallée de Seine (ILI-VS). Il dirige SmartLogiLab, Laboratoire commun 
-de recherche et d'innovation piloté par l'entreprise SOGET et le laboratoire LITIS de 
-l'Université Le Havre Normandie et soutenu par l'Agence Nationale de la Recherche (ANR).
-Il est co-coordinateurr du réseau international UniTwin CS-DC (Complex System Digital Campus) 
-labellisé par l'UNESCO.  
-   
+Cyrille Bertelle est professeur des universités en informatique à l'Université Le Havre Normandie (Classe Exceptionnelle, deuxième échelon).
+Il appartient au laboratoire de recherche LITIS, FR-CNRS 3638 dont il a assuré la co-direction pour la composante havraise de 2006 à 2011.
+Il dirige SmartLogiLab, Laboratoire commun de recherche et d'innovation piloté par l'entreprise SOGET et le laboratoire LITIS de l'Université Le Havre Normandie et soutenu par l'Agence Nationale de la Recherche (ANR).
+Il est co-coordinateur du réseau international UniTwin CS-DC (Complex System Digital Campus) labellisé par l'UNESCO depuis 2014 (labellisation de l'UNESCO renouvellée en 2022 et 2026).
+Il préside le groupement d'intérêt scientifique (GIS) Institut pour une logistique intelligente en Vallée de Seine (ILI-VS).
+Il a dirigé jusqu'en 2025 la structure fédérative de recherche en Logistique en Normandie, SFLog.
+Il a été vice-président de la recherche, de la valorisation et des études doctorales de l'Université Le Havre Normandie de 2012 à 2016. 
+
    
 ## intérêt et projets de recherche actuels
 - Modélisation et simulation des systèmes complexes
@@ -42,11 +40,14 @@ labellisé par l'UNESCO.
   
   
 ## responsabilités
-- Directeur de SFLog, la structure fédérative de recherche en Logistique en Normandie
-- President du GIS Intitut pour une logistique intelligente en Vallée de Seine
-- Co-coordinateur du pôle de formation et de recherche CTM (Continuum Terre Mer) de Normandie Univ.
+- Directeur du LabCom SmartLogiLab (laboratoire commun de recherche et d'innovation piloté par le LITIS et l'entreprise SOGET)
 - Co-coordinateur de l'UniTwin UNESCO CS-DC (Complex Systems Digital Campus)
 - Co-coordinateur de l'ISCN (Institut des systèmes complexes en Normandie)
+- Président du GIS Intitut pour une logistique intelligente en Vallée de Seine
+- Directeur de SFLog, la structure fédérative de recherche en Logistique en Normandie jusqu'en 2025
+- Co-coordinateur du pôle de formation et de recherche CTM (Continuum Terre Mer) de Normandie Univ jusqu'en 2024
+- Vice-Président de la recherche, de la valorisation et des études doctorales de l'Université Le Havre Normandie de 2012 à 2016. 
+- Co-directeur du laboratoire LITIS pour sa composante havraise de 2006 à 2011.
 
 ## contact
 - **Postal Address** :  
