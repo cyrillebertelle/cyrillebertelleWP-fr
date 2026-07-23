@@ -4,8 +4,9 @@ title: accueil
 permalink: /
 description: 
   <a href="https://www.litislab.fr/">LITIS Lab.</a> /  
-  <a href="https://sflog.univ-lehavre.fr/">SFLog</a> / 
   <a href="https://isc-n.fr">ISCN</a> /  
+  <a href="https://www.cs-dc.org/">CS-DC</a> /
+  <a href="http://css-fr.org">CSS-Fr</a>/
   <a href="http://www.normastic.fr/">FR CNRS 3638 NormaSTIC</a><br>
   <a href="http://www.normandie-univ.fr/">Normandie Univ</a> - 
   <a href="http://www.univ-lehavre.fr/">Université Le Havre Normandie</a> - 
@@ -24,11 +25,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Cyrille Bertelle est professeur des universités en informatique à l'Université Le Havre Normandie (Classe Exceptionnelle, deuxième échelon). Il appartient au laboratoire de recherche LITIS, FR-CNRS 3638 dont il a assuré la co-direction pour la composante havraise de 2006 à 2011. 
+Cyrille Bertelle est professeur des universités en informatique à l'
+[Université Le Havre Normandie](http://www.univ-lehavre.fr) (Classe Exceptionnelle, deuxième échelon). Il appartient au laboratoire de recherche 
+[LITIS](https://www.litislab.fr), 
+[FR-CNRS 3638](http://www.normastic.fr/), dont il a assuré la co-direction pour la composante havraise de 2006 à 2011. 
 
 Il dirige actuellement SmartLogiLab, Laboratoire commun de recherche et d'innovation piloté par l'entreprise SOGET et le laboratoire LITIS de l'Université Le Havre Normandie et soutenu par l'Agence Nationale de la Recherche (ANR). 
 
-Il est co-coordinateur de l'UniTwin UNESCO CS-DC (Complex Systems Digital Campus).
+Il est co-coordinateur de l'UniTwin UNESCO 
+[CS-DC](https://www.cs-dc.org/) (Complex Systems Digital Campus).
+Il est membre du COMEX de [CSS-Fr](http://css-fr.org), branche française de la Complex System Society.
 Il préside le groupement d'intérêt scientifique (GIS) Institut pour une logistique intelligente en Vallée de Seine (ILI-VS). 
 
 <!-- Il a dirigé jusqu'en 2025 la structure fédérative de recherche en Logistique en Normandie, SFLog. 
@@ -46,6 +52,7 @@ Il a été vice-président de la recherche, de la valorisation et des études do
 - Directeur du LabCom SmartLogiLab (laboratoire commun de recherche et d'innovation piloté par le LITIS et l'entreprise SOGET).
 - Co-coordinateur du réseau international UniTwin CS-DC (Complex System Digital Campus) labellisé par l'UNESCO depuis 2014 (labellisation de l'UNESCO renouvellée en 2022 et 2026).
 - Co-coordinateur de l'ISCN (Institut des systèmes complexes en Normandie).
+- Membre du COMEX de CSS-Fr, branche française de la Complex System Society.
 - Président du GIS Intitut pour une logistique intelligente en Vallée de Seine.
 - Directeur de SFLog, la structure fédérative de recherche en Logistique en Normandie jusqu'en 2025.
 - Co-coordinateur du pôle de formation et de recherche CTM (Continuum Terre Mer) de Normandie Univ jusqu'en 2024.

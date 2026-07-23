@@ -3,6 +3,7 @@ layout: post
 title: rencontre "Territoire de demain", 10 Septembre 2021, Port Center Le Havre 
 date: 2021-07-10
 inline: false
+published: false
 ---
 
 La rencontre scientifique et d'innovation "Territoire de demain - Informations numériques géolocalisées et fréquentation touristique en Normandie" a lieu le 10 septembre 2021 au Port Center du Havre.
