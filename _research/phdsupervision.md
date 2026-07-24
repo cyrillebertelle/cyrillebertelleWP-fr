@@ -13,8 +13,7 @@ Deux thèses sous ma direction sont en cours et vingt-deux ont déjà été sout
 
 ### thèses en préparation
 
-* **Amine Baki**, "Des documents à la décision : construction d’un assistant IA
-pour l'automatisation des processus métier en entreprise", début de thèse : 10/2024, date prévue de soutenance : 10/2027, co-dirigée avec Pr. Claude Duvallet (LITIS, Le Havre).  
+* **Amine Baki**, "Des documents à la décision : construction d’un assistant IA pour l'automatisation des processus métier en entreprise", début de thèse : 10/2024, date prévue de soutenance : 10/2027, co-dirigée avec Pr. Claude Duvallet (LITIS, Le Havre).  
 **Financement** : allocation ANR (sur LabCom SmartLogiLab) et Région Normandie.
 
 * **Maxence Lambard**, "Smart Legal Contract - Automatisation des exécutions contractuelles au service des transactions logistiques", début de thèse : 09/2023, date prévue de soutenance : 10/09/2026, co-dirigée avec Pr. Claude Duvallet (LITIS, Le Havre).  
@@ -34,8 +33,7 @@ pour l'automatisation des processus métier en entreprise", début de thèse : 1
 **Financement** : Convention CIFRE avec HAROPA, consortium des ports du Havre, Rouen et Paris. 
 **Situation actuelle du docteur** : Cyber Security Specialist, Renault Group, France
 
-* **Mongetro Goint**, "Etablissement de la confiance numérique dans les Smart territoires
-grâce aux mécanismes de consentements sécurisés basés sur la BlockChain", début de thèse : 11/2019, soutenue le 23/06/2023, co-encadrée par Dr. Claude Duvallet (LITIS, Le Havre).    
+* **Mongetro Goint**, "Etablissement de la confiance numérique dans les Smart territoires grâce aux mécanismes de consentements sécurisés basés sur la BlockChain", début de thèse : 11/2019, soutenue le 23/06/2023, co-encadrée par Dr. Claude Duvallet (LITIS, Le Havre).    
 **Financement** : allocation de la Communauté d'Agglomération du Havre (LHSM).  
 **Situation actuelle du docteur** : Ingénieur R&D Blockchain et Cybersécurité, Expleo Group, France
 
@@ -43,7 +41,7 @@ grâce aux mécanismes de consentements sécurisés basés sur la BlockChain", d
 **Financement** : salariée (CDI) chez AVIVA Investors en tant que chargée d'études économiques, financières et statistiques.  
 **Situation actuelle du docteur** : Head of Data Intelligence à l'Autorité des Marchés Financiers (AMF), France.
 
-* **Nesrine Masmoudi**, "Méthodes bio-inspirées pour le clustering de graphes, applications à la fouille de don- nées et à la distribution de simulations", début de thèse : 02/2012, soutenue le 06/01/2017, co-dirigée par Pr. Mohamed Ben Jamaa (Tunisia, co-tutelle), co-encadrée par Dr. Hanène Azzag et Dr. Mustapha Lebbah (LIPN, Paris 13).  
+* **Nesrine Masmoudi**, "Méthodes bio-inspirées pour le clustering de graphes, applications à la fouille de don- nées et à la distribution de simulations", début de thèse : 02/2012, soutenue le 06/01/2017, co-dirigée par Pr. Mohamed Ben Jamaa (Tunisia, co-tutelle), co-encadrée par Dr. Hanene Azzag et Dr. Mustapha Lebbah (LIPN, Paris 13).  
 **Financement** : assistante à l'école d'ingénieur de Sfax.  
 **Situation actuelle du docteur** : Maître assistant et Chef du Département informatique de la Faculté de gestion des entreprises et des administrations, Université Taibah, Arabie Saoudite.
 
