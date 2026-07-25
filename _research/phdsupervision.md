@@ -30,7 +30,7 @@ Deux thèses sous ma direction sont en cours et vingt-deux ont déjà été sout
 **Situation actuelle du docteur** : ATER à l'Université Le Havre Normandie
 
 * **Rim Abdallah**, "Enhancing Maritime Logistics with Blockchain Technology : Application to secure and trace dangerous goods in smart ports", début de thèse : 03/2021, soutenue le 18/06/2024, co-encadrée par Dr. Claude Duvallet (LITIS, Le Havre).  
-**Financement** : Convention CIFRE avec HAROPA, consortium des ports du Havre, Rouen et Paris. 
+**Financement** : Convention CIFRE avec HAROPA, consortium des ports du Havre, Rouen et Paris.   
 **Situation actuelle du docteur** : Cyber Security Specialist, Renault Group, France
 
 * **Mongetro Goint**, "Etablissement de la confiance numérique dans les Smart territoires grâce aux mécanismes de consentements sécurisés basés sur la BlockChain", début de thèse : 11/2019, soutenue le 23/06/2023, co-encadrée par Dr. Claude Duvallet (LITIS, Le Havre).    
