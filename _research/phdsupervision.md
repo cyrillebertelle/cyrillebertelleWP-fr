@@ -14,15 +14,15 @@ Deux thèses sous ma direction sont en cours et vingt-deux ont déjà été sout
 ### thèses en préparation
 
 * **Amine Baki**, "Des documents à la décision : construction d’un assistant IA pour l'automatisation des processus métier en entreprise", début de thèse : 10/2024, date prévue de soutenance : 10/2027, co-dirigée avec Pr. Claude Duvallet (LITIS, Le Havre).  
-**Financement** : allocation ANR (sur LabCom SmartLogiLab) et Région Normandie.
+**Financement** : Allocation ANR (sur LabCom SmartLogiLab) et Région Normandie.
 
 * **Maxence Lambard**, "Smart Legal Contract - Automatisation des exécutions contractuelles au service des transactions logistiques", début de thèse : 09/2023, date prévue de soutenance : 10/09/2026, co-dirigée avec Pr. Claude Duvallet (LITIS, Le Havre).  
-**Financement** : allocation de la Communauté d'Agglomération du Havre (LHSM) et de la Région Normandie.
+**Financement** : Allocation de la Communauté d'Agglomération du Havre (LHSM) et de la Région Normandie.
 
 ### thèses soutenues
 
 * **Mahutin Lucien Vidagbandji**, "Extreme Quantile Regression based on Conditional GEV Models and Generalized Random Forests", début de thèse : 10/2022, soutenue le 20/03/2026, co-dirigée avec Pr. Alexandre Berred (LMAH, Le Havre), co-encadrée par Dr. Laurent Amanton (LITIS, Le Havre).  
-**Financement** : allocation d'établissement/MESR.  
+**Financement** : Allocation d'établissement/MESR.  
 **Situation actuelle du docteur** : ATER à l'Université Le Havre Normandie
 
 * **Mamadou Kassé**, "Système de prévention contre les vulnérabilités et de détection des anomalies dans les réseaux informatiques", début de thèse : 12/2021, soutenue le 29/11/2024, co-dirigée avec Pr. Alexandre Berred (LMAH, Le Havre), co-encadrée par Dr. Rodolphe Charrier (LITIS, Le Havre).  
@@ -34,47 +34,48 @@ Deux thèses sous ma direction sont en cours et vingt-deux ont déjà été sout
 **Situation actuelle du docteur** : Cyber Security Specialist, Renault Group, France
 
 * **Mongetro Goint**, "Etablissement de la confiance numérique dans les Smart territoires grâce aux mécanismes de consentements sécurisés basés sur la BlockChain", début de thèse : 11/2019, soutenue le 23/06/2023, co-encadrée par Dr. Claude Duvallet (LITIS, Le Havre).    
-**Financement** : allocation de la Communauté d'Agglomération du Havre (LHSM).  
+**Financement** : Allocation de la Communauté d'Agglomération du Havre (LHSM).  
 **Situation actuelle du docteur** : Ingénieur R&D Blockchain et Cybersécurité, Expleo Group, France
 
 * **Iris Lucas**, "Dynamique et contrôle d’un système multi-agent intelligent avec application à un marché financier actions", début de thèse : 05/2015, soutenue le 17/07/2018, co-encadrée par Michel Cotsaftis (ECE, Paris)  
-**Financement** : salariée (CDI) chez AVIVA Investors en tant que chargée d'études économiques, financières et statistiques.  
+**Financement** : Salariée (CDI) chez AVIVA Investors en tant que chargée d'études économiques, financières et statistiques.  
 **Situation actuelle du docteur** : Head of Data Intelligence à l'Autorité des Marchés Financiers (AMF), France.
 
 * **Nesrine Masmoudi**, "Méthodes bio-inspirées pour le clustering de graphes, applications à la fouille de don- nées et à la distribution de simulations", début de thèse : 02/2012, soutenue le 06/01/2017, co-dirigée par Pr. Mohamed Ben Jamaa (Tunisia, co-tutelle), co-encadrée par Dr. Hanene Azzag et Dr. Mustapha Lebbah (LIPN, Paris 13).  
-**Financement** : assistante à l'école d'ingénieur de Sfax.  
+**Financement** : Assistante à l'école d'ingénieur de Sfax.  
 **Situation actuelle du docteur** : Maître assistant et Chef du Département informatique de la Faculté de gestion des entreprises et des administrations, Université Taibah, Arabie Saoudite.
 
 * **Haifa Rabai**, "Réseau dynamique d’applications chaotiques couplées pour l’étude de la mobilité urbaine", début de thèse : 10/2012, soutenue le 06/12/2016, co-encadrée par Dr. Rodolphe Charrier (LITIS, Le Havre)  
-**Financement** : allocation d'établissement/MESR  
+**Financement** : Allocation d'établissement/MESR  
 **Situation actuelle du docteur** : Global Quality Data Lead, Sanofi.
 
 * **Suhad Faisal**, "Adaptive Modeling of Urban Dynamics with Mobile Phone Database", début de thèse : 04/2012, soutenue le 26/11/2016  
-**Financement** : bourse de l’Irak dans le cadre d’un programme de formation doctoral  
-**Situation actuelle du docteur** : Assistant Professeure et chef de département Big Data Science, College of AI, Université de Bagdad, Irak.
+**Financement** : Bourse de l'Irak dans le cadre d’un programme de formation doctoral  
+**Situation actuelle du docteur** : Assistant professeure et chef de département Big Data Science, College of AI, Université de Bagdad, Irak.
 
 * **Thibaut Démare**, "Une approche systémique à base d’agents et de graphes dynamiques pour modéliser l’interface logistique port-métropole", début de thèse : 10/2012, soutenue le 26/09/2016, co-encadrée par Dr. Laurent Lévèque (IDEES, Le Havre) et Dr. Antoine Dutot (LITIS, Le Havre)  
-**Financement** : allocation de la communauté d'agglomération du Havre  
+**Financement** : Allocation de la communauté d'agglomération du Havre  
 **Situation actuelle du docteur** : Lead Developer à SEA-Invest, Honfleur, France.
 
 * **Clément Duhart**, "Toward Organic Ambient Intelligences? EMMA", début de thèse : 12/2012, soutenue le 21/06/2016.  
-**Financement** : enseignant à l'ECE, Paris  
+**Financement** : Enseignant à l'ECE, Paris  
 **Situation actuelle du docteur** : Directeur de la stratégie et de l'innovation à IONIS Education Group.
 
-* **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", début de thèse : 11/2011, soutenue le 12 October 2015, co-dirigée avec Pr. Eric Sanlaville (LITIS, Le Havre)  
-**Financement** : bourse de l’Irak dans le cadre d’un programme de formation doctoral  
+* **Mahdi Abed Salman Meslmawy**, "Efficient resources management in a distributed computer system, modeled as a dynamical complex system", début de thèse : 11/2011, soutenue le 12/10/2015, co-dirigée avec Pr. Eric Sanlaville (LITIS, Le Havre)  
+**Financement** : Bourse de l’Irak dans le cadre d’un programme de formation doctoral  
 **Situation actuelle du docteur** : Maître de conférences à l'université de Bagdad, Irak.
 
-* **Abdelhamid Zouhair**, "Raisonnement à partir de cas dynamique multi-agent ; application à un système de tuteur intelligent", début de thèse : 10/2009, soutenue le 20/10/2014, co-dirigée avec Pr. Benaissa Amami (FST, Tanger, Maroc), co-encadrée par Dr. El Mokhtar En-Naimi (FST, Tanger, Maroc), Dr. Hadhoum Boukachour et Dr. Patrick Person (LITIS, Le Havre)  
-**Financement** : fonctionnaire au ministère de la ville au Maroc  
+* **Abdelhamid Zouhair**, "Raisonnement à partir de cas dynamique multi-agent ; application à un système de tuteur intelligent", début de thèse : 10/2009, soutenue le 20/10/2014, co-dirigée avec Pr. Benaissa Amami (FST Tanger, Maroc), co-encadrée par Dr. El Mokhtar En-Naimi (FST Tanger, Maroc), Dr. Hadhoum Boukachour et Dr. Patrick Person (LITIS, Le Havre)  
+**Financement** : Fonctionnaire au ministère de la ville au Maroc  
 **Situation actuelle du docteur** : Enseignant-chercheur à l'université 
 Abdelmalek Essaâdi University, Tétouan, Morocco.
 
 * **Karim Mahboub**, "Modélisation des processus émotionnel dans la prise de décision", soutenue le 22/11/2011, co-encadrée par Dr. Evelyne Clément (ICONES, Rouen) et Dr. Véronique Jay (LITIS, Le Havre)  
-**Financement** : allocation régionale doctorale + ATER  
+**Financement** : Allocation régionale doctorale + ATER  
 **Situation actuelle du docteur** : Senior Data et AI Lead à Ooredov, Qatar.
 
-* **Michel Nabaa**, "Modelling of population flows", soutenue le 12/04/2011, co-dirigée avec Pr. Damien Olivier, co-encadrée par Dr. Antoine Dutot (LITIS, Le Havre)  
+* **Michel Nabaa**, "Morphodynamique de réseaux viaires -
+Application au risque", soutenue le 12/04/2011, co-dirigée avec Pr. Damien Olivier, co-encadrée par Dr. Antoine Dutot (LITIS, Le Havre)  
 **Financement** : CIFRE avec la communauté urbaine du Havre + ATER  
 **Situation actuelle du docteur** : Domain Manager à BGL BNP Paribas.
 
