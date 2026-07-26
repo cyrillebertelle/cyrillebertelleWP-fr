@@ -1,10 +1,11 @@
 ---
-layout: post
-title: analyse numérique matricielle
-description: cours en master 1 mathématiques appliquées UFRST Université Le Havre Normandie
+layout: postteaching
+title: analyse numérique matricielle<br><h6>Master 1 mathématiques appliquées<br>UFRST Université Le Havre Normandie</h6>
+description:
 date: 2021-07-10
 inline: false
 catégory : cours récents
+status: actuel
 ---
 
 Le cours d’analyse numérique matricielle est une spécialisation des méthodes de résolution de  systèmes  linéaires  et  de  recherche  d’éléments  propres.  Dans  ce  cours,  on  s’intéressera notamment aux structurations particulières de ces problèmes linéaires qui apparaissent dans la  discrétisation  des  problèmes  concrets  en  simulation  de  dynamique  des  fluides  ou d’élasticité où les tailles des systèmes peuvent être importantes, nécessitant des algorithmes efficaces et fiables. 

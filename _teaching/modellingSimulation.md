@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: postteaching
 title: modélisation et programmation
 description: ancien cours en master 2 matis (mathématiques et informatique ses systèmes complexes et distribués) UFRST Université Le Havre Normandie enseigné jusqu'en 2017
 date: 2020-07-20
 inline: false
 category: archive d'anciens cours
+status: ancien
 ---
 
 Ce cours présente les concepts de la modélisation, en particulier dans le domaines de la dynamique de population. Plusieurs techniques de modélisation sont étudiées : les problèmes différentiels, les modèles d'interaction de population, les modèles à compartiments, les modèles individus-centrés.

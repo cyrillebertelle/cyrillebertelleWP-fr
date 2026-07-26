@@ -1,10 +1,11 @@
 ---
-layout: post
-title: programmation bio-inspirée
-description: cours en master 2 iwocs (ingénierie du web, des objects communiquants et des systèmes complexes) UFRST Université Le Havre Normandie
+layout: postteaching
+title: programmation bio-inspirée<br><h6>Master 2 IWOCS (ingénierie du web, des objects communiquants et des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
+description: 
 date: 2021-07-10
 inline: false
 category: cours récents
+status: actuel
 ---
 
 Ce cours présente des méthodes d'intelligence artificielle distribuée à base d'algorithmes reproduisant les processus émergents du comportement collectif individuel et inspirés de la biologie animale. 

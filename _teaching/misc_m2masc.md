@@ -1,12 +1,13 @@
 ---
-layout: post
-title: modélisation informatique des systèmes complexes
-description: cours en master 2 masc (modélisation et analyse des systèmes complexes) UFRST Université Le Havre Normandie
+layout: postteaching
+title: modélisation informatique des systèmes complexes<br><h6>Master 2 MASC (modélisation et analyse des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
+description: 
 date: 2021-07-10
 inline: false
 category: cours récents
+status: actuel
 ---
-
+  
 Ce cours présente différentes approches de modélisation informatique des systèmes complexes. Il complète le cours de modélisation mathématique des systèmes complexes enseigné par M.A. Aziz-Alaoui.
 
 Les supports de cours pour les étudiants sont aujourd'hui sur la plateforme Moodle / Eureka de l'Université Le Havre Normandie.

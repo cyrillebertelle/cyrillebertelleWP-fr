@@ -1,10 +1,11 @@
 ---
-layout: post
-title: apprentissage automatique
-description: cours de master 2 iwocs(ingénierie du web, des objets connectés et des systèmes complexes) UFRST Université Le Havre Normandie
+layout: postteaching
+title: apprentissage automatique<br><h6>Master 2 IWOCS (ingénierie du web, des objets connectés et des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
+description: 
 date: 2021-07-10
 inline: false
 category: cours récents
+status: actuel
 ---
 
 Le domaine de l’apprentissage automatique (« Machine Learning ») est essentiel à la fois pour le monde du traitement de données et en particulier des grandes masses de données (« Big Data »), où la diversité des données et des problématiques ainsi que la quantité des données à traiter nécessitent bien souvent l’utilisation de méthodes d’approximation des solutions par itérations successives, à la fois pour le monde de l’Intelligence Artificielle où l’apprentissage est au cœur des problématiques. Cette méthodologie spécifique d’approximation par itérations que l’on désigne sous le terme « Apprentissage », peut être fondée sur des exemples déjà connus et résolus (dits « exemples 

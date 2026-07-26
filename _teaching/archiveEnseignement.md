@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: postteaching
 title: archive d'anciens cours (->2010)
 description: 
 date: 2010-07-05
 inline: false
 category : archives d'anciens cours
+status: ancien
 ---
 
 archive d'anciens cours enseignés avant 2010
