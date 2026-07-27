@@ -1,6 +1,6 @@
 ---
 layout: postteaching
-title: modélisation informatique du vivant<br><h6>Master 1 mathématiques appliquées<br>UFRST Université Le Havre Normandie</h6>
+title: modélisation mathématique du vivant<br><h6>Master 1 mathématiques appliquées<br>UFRST Université Le Havre Normandie</h6>
 description:
 date: 2021-07-10
 inline: false
