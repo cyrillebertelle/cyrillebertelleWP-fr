@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postteaching
 title: direction de thèses
 description: 
 date: 2021-07-08

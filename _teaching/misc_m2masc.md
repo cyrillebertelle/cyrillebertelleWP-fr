@@ -2,7 +2,7 @@
 layout: postteaching
 title: modélisation informatique des systèmes complexes<br><h6>Master 2 MASC (modélisation et analyse des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
 description: 
-date: 2021-07-10
+date: 2022-07-22
 inline: false
 category: cours récents
 status: actuel

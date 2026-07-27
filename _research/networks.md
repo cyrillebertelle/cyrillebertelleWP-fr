@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postteaching
 title: encadrement de la recherche
 description: direction de laboratores, d'instituts, de réseaux internationaux, d'équipes de recherche ; expertise et participation à des comités
 date: 2021-07-07

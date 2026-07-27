@@ -4,7 +4,7 @@ title: programmation scientifique<br><h6>L3 informatique<br>UFRST Université Le
 description: 
 date: 2020-07-20
 inline: false
-category: archive d'anciens cours
+category: cours récents
 status: actuel
 ---
 

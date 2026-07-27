@@ -18,10 +18,9 @@ layout: default
       {% endif %}
     {{ content }}
 
-    <h2 style="border-top: 1px solid #e0e0e0; padding-top: 1rem; margin-top: 1rem;">1. Cours récents</h2>
     <ul class="post-list" style="border-top: 1px solid #e0e0e0; padding-top: 1rem; margin-top: 1rem;">      
     <ul class="post-list">
-      {% assign current_posts = site.teaching | where: "status", "actuel" | sort: "date" | reverse %}
+      {% assign current_posts = site.research | sort: "date" | reverse %}
       {% for post in current_posts %}
         <li>
           <h3>
@@ -33,23 +32,6 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
-    <h2 style="border-top: 1px solid #e0e0e0; padding-top: 1rem; margin-top: 1rem;">2. Cours plus anciens</h2>
-    <ul class="post-list" style="border-top: 1px solid #e0e0e0; padding-top: 1rem; margin-top: 1rem;">      
-    <ul class="post-list">
-      {% assign old_posts = site.teaching | where: "status", "ancien" | sort: "date" | reverse %}
-      {% for post in old_posts %}
-        <li>
-          <h3>
-            <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">
-              {{ post.title }}
-            </a>
-          </h3>
-          <p>{{ post.description }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-
 
   </article>
 

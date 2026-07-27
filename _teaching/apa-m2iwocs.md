@@ -2,7 +2,7 @@
 layout: postteaching
 title: apprentissage automatique<br><h6>Master 2 IWOCS (ingénierie du web, des objets connectés et des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
 description: 
-date: 2021-07-10
+date: 2022-07-21
 inline: false
 category: cours récents
 status: actuel

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postteaching
 title: animation et gestion de conférences
 date: 2021-07-09
 inline: false

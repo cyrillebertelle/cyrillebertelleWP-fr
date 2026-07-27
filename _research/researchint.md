@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: postteaching
 title: intérêt et projets de recherche
-description: Résumé de mes intérêts et activités en recherche
+description: 
 date: 2021-07-10
 inline: false
 category: past

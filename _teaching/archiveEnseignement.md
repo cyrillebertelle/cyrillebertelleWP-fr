@@ -1,6 +1,6 @@
 ---
 layout: postteaching
-title: archive d'anciens cours (->2010)
+title: archive d'anciens cours<br><h6>(avant 2010)</h6>
 description: 
 date: 2010-07-05
 inline: false
@@ -8,9 +8,6 @@ category : archives d'anciens cours
 status: ancien
 ---
 
-archive d'anciens cours enseignés avant 2010
-
-***
 
 * [Outils de développement, programmation événementielle, IHM](https://litis.univ-lehavre.fr/~bertelle/ihm.html)  
 enseigné avec Antoine Dutot  

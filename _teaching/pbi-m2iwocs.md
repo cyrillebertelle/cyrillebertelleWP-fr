@@ -2,7 +2,7 @@
 layout: postteaching
 title: programmation bio-inspirée<br><h6>Master 2 IWOCS (ingénierie du web, des objects communiquants et des systèmes complexes)<br>UFRST Université Le Havre Normandie</h6>
 description: 
-date: 2021-07-10
+date: 2022-07-20
 inline: false
 category: cours récents
 status: actuel
