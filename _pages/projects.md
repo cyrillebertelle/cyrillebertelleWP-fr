@@ -2,11 +2,17 @@
 layout: page
 title: projets
 permalink: /projects/
-description: liste des projets ci-dessous; cliquer sur chaque box pour plus d'information
+description: 
 nav: true
 display_categories: [projets récents, projets anciens, dissemination, others]
 horizontal: false
 ---
+Liste des projets de recherche auxquels j'ai contribué soit en tant que responsable, soit en tant qu'expert. 
+
+Il s'agit de mettre en place des solutions innovantes, basées sur des travaux de recherche, répondant à des défis ou problèmatiques académiques, souvent pluridisciplinaires, ou encore répondant à des problèmes concrets en partenariat avec des universitaires ou des entreprises.   
+
+Cliquer sur chacun des pavés pour obtenir des informations plus précises sur ces projets.
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
