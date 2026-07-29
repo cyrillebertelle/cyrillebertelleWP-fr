@@ -17,25 +17,24 @@ category: projets récents
 </div>
 -->
 
-à compléter
+### Isiforecast : Promouvoir une transformation économique innovante et intelligente
 
-<!-- 
-FuMa ou "Futur de la marchandise : vers une chaine logistique _glocale_", est un projet de recherche dans le domaine de la logistique qui vise à réfléchir au transport de la marchandise de demain en prenant en compte entre autre l'accélération du commerce mondiale et l'exigence croissante du consommateur, qui demande toujours plus de traçabilité et de produits issus des circuits courts.
+**Financeur** : Union Européenne 60 % + Région Normandie 40 %   
+**Montant total du financement** : 81 k€   
+**Période de réalisation** : 01/11/2023 au 30/04/2026 (30 mois)   
+**Responsables scientifiques** : Alexandre Berred et Cyrille Bertelle
 
-Ce projet est l'objet de l'étude entre autres des questions suivantes:
 
-* Comment améliorer la logistique des circuits de proximité pour leur permettre d’être efficace et rentable ?
-* Comment combiner circuits courts et de proximité avec les flux globaux afin de leur offrir une rentabilité supplémentaire ?
-* Comment instaurer de la confiance entre les producteurs et les consommateurs à propos des marchandises ?
-* Comment doit se faire la traçabilité de la marchandise aux différentes échelles ?
-* Comment intégrer des technologies de type IoT et Blockchain ?
+#### Partenaires
+* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN)
+* CIRCOE
+* Artyfêtes
 
-Autrement dit, il faut avoir une vision centrée vers l’intelligence de la marchandise mais aussi sur l’analyse de la vulnérabilité et de la robustesse de ces nouvelles chaînes logistiques.
 
-Le projet est financé par la Région Normandie dans le cadre des [RIN](https://aides.normandie.fr/rin-recherche-2021) (Réseaux d'intérêt normands) et du pôle de formation et de recherche [CTM](https://www.normandie-univ.fr/recherche/structuration-de-la-recherche/pole-ctm/) (Continuum Terre-Mer), sur la période 2019-2022.
+#### Descriptif du projet
 
-La direction scientifique est assurée par Claude Duvallet (LITIS, Université Le Havre Normandie) et Roland Condor (EM Normandie).
+La gestion efficace des stocks et la prévision des ventes constituent des enjeux majeurs pour les entreprises, quel que soit leur secteur d’activité. Une mauvaise anticipation de la demande peut entraîner des surstocks coûteux, des ruptures de stock, ou une perte d’opportunités commerciales. Dans ce contexte, le projet ISIFORECAST a pour ambition de fournir une plateforme intelligente et modulable permettant d’améliorer la précision des prévisions de ventes, tout en restant accessible à des utilisateurs de profils variés. ISIFORECAST combine des méthodes classiques de prévision (telles que SARIMAX et Prophet) avec des modèles avancés d’apprentissage profond (N-BEATS, TCN, LSTM et des approches hybrides) afin de capturer les dynamiques temporelles complexes des séries de ventes. Le projet intègre également des fonctionnalités complémentaires telles que le clustering de produits, l’analyse du cycle de vie des produits, et la gestion des effets liés aux ruptures de stock, permettant ainsi une vision complète et opérationnelle des prévisions.
 
-Il implique 10 structures de recherche dans 6 établissements (EM Normandie, Université Le Havre Normandie, ESIGELEC, IDIT, Université Rouen Normandie, Neoma BS) sur Les trois sites du Havre, Rouen et Caen : SFLog, LITIS, LMAH, GREAH, NIMEC, METIS, LMRS, IRSEEM, MOBIS, IDIT.
--->
+Isiforcast est aujourd'hui mis en production par Circoe :
+[Site web Isiforecast](https://isiforecast.com/)
 

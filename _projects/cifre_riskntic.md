@@ -20,7 +20,7 @@ category: projets récents
 
 Ce projet s'intéresse au développement de modèle probabilistes d’apprentissage dans des systèmes complexes adaptatifs appliqués au management des risques en cyber-sécurité.
 
-Il est soutenu par une convention CIFRE (ANRT) et permet le financement de la thèse de Lina El Houari sur une période trois ans depuis décembre 2020.
+Il a été soutenu par une convention CIFRE (ANRT) et a permis le financement de la thèse de Mamadou Kassé à partir de décembre 2021.
 
 Les partenaires sont la société Risk'n TIC et les laboratoires LMAH et LITIS/SFLog.
 

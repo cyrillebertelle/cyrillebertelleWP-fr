@@ -4,7 +4,7 @@ title: SmartFlow
 description: collaborative project 2SN-LITIS, 2019-2021, Normandie Region 
 img: /assets/img/smartFlow-image-v2.png
 importance: 30
-category: projets récents
+category: projets anciens
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

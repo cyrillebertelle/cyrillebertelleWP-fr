@@ -24,15 +24,15 @@ Union Européenne et Région Normandie
 **Montant total du financement** :
 95 000€ (38 000€ région /57 000€ FEDER)  
 **Période de réalisation** :
-01/11/2022 – 31/12/2025 (24 mois)  
+01/11/2022 – 31/12/2025 (24 mois)   
+**Responsable scientifique pour l'Université Le Havre Normandie** : 
+Claude Duvallet   
 
 #### Partenaires 
-* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes
+* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN)
 * XTR Drones 
 * Cegelec Defense
 
-**Responsable scientifique pour l'Université Le Havre Normandie** : 
-Claude Duvallet   
 
 #### Descriptif du projet  
 Le projet ClearSpace a été mené par le LITIS pour l’Université Le Havre Normandie, en collaboration avec les sociétés XTR Drones et Cegelec Défense. Il avait pour objectif d’explorer l’utilisation de la technologie blockchain pour certifier et préserver l’intégrité des preuves associées à la détection d’intrusions de drones dans des zones surveillées.
