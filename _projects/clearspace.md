@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clearspace
-description: Projet collaboratif soutenu par la Région Normandie 
+description: Projet collaboratif soutenu par la Région Normandie et l'UE
 img: /assets/img/clearspace-v2.png
 importance: 8
 category: projets récents

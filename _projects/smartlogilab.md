@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SmartLogiLab
-description: LabCom ANR SOGET-LITIS-SFLog sur les smart PCS/CCS
+description: LabCom ANR SOGET-LITIS sur les smart PCS
 img: /assets/img/smartLogiLab_logo-v2.png
 importance: 3
 category: projets récents
@@ -27,16 +27,13 @@ SmartLogiLab est soutenu et labellisé LabCom (Laboratoire Commun) par l'ANR (Ag
 Une description est accessible sur le site de l'ANR :  
 [SmartLogiLab - un centre d'innovation réunissant le laboratoire de recherche LITIS et la société SOGET](https://anr.fr/Projet-ANR-22-LCV2-0013).
 
+**Site web** : [https://www.smartlogilab.com](https://www.smartlogilab.com)
+
 #### Objectifs 
 
-L'objectif est de contribuer à de nouveaux développements pour inclure dans les systèmes d'informations portuaires (PCS/CCS) des technologies d'IA et de Blockchain, notamment pour développer des plateformes de données de nouvelle génération.
+L'objectif est de contribuer à de nouveaux développements pour inclure dans les systèmes d'informations portuaires (PCS) des technologies d'IA et de Blockchain, notamment pour développer des plateformes de données de nouvelle génération.
 
-Il bénéficie notamment du travail de la thèse de Mongetro Goint financé par la communauté d'agglomération du Havre : LHSM.
-
-Le volet scientifique est coordonné par Cyrille Bertelle et Claude Duvallet.
-
-Les livrables prévus sont des études prospectives ainsi que le développement de prototypes et de preuves de concepts autour de l'IA et des blockchains pour la logistique portuaire.
-
+I
 #### Gouvernance
 
 #### Programmes

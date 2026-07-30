@@ -26,9 +26,9 @@ category: projets récents
 
 
 #### Partenaires
-* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN)
-* CIRCOE
-* Artyfêtes
+* LITIS – Laboratoire d’Informatique, du Traitement de l’Information et des Systèmes (ULHN) ;
+* CIRCOE, Conseil et Innovation en Logistique, Normandie, Le Havre ;
+* Artyfêtes, Créateur de collections d'articles de fêtes à destination des professionnels.
 
 
 #### Descriptif du projet

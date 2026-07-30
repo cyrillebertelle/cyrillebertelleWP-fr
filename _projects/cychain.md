@@ -22,7 +22,8 @@ CY Initiative - Cergy Paris Université
 **Montant du financement** :
 186 k€   
 **Période de réalisation** :
-09/2025 – 08/2028 (36 mois)     
+09/2025 – 08/2028 (36 mois)  
+**Responsable scientifique général** : Patrick Barban (CY - Cergy Paris Université)      
 **Responsables scientifiques pour l'Université Le Havre Normandie** : 
 Cyrille Bertelle et Claude Duvallet     
 
