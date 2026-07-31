@@ -32,7 +32,6 @@ Une description est accessible sur le site de l'ANR :
 #### Objectifs 
 
 L'objectif est de contribuer à de nouveaux développements pour inclure dans les systèmes d'informations portuaires (PCS) des technologies d'IA et de Blockchain, notamment pour développer des plateformes de données de nouvelle génération.
-
 I
 #### Gouvernance
 
